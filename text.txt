@@ -1,0 +1,1385 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+
+<title>宫晓威 关注的人 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://people/gong-xiao-wei">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/gong-xiao-wei/followees">
+<meta id="znonce" name="znonce" content="e90babb3669546caaad2618fdacd41f2">
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(114px).png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(120px).png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(152px).png" sizes="152x152" />
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/edbadbb4ac37b9f2d60e7f0ef3487943.z.css">
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+
+<script src="http://static.zhihu.com/static/ver/8fc2686c4d610241ee5c53c04271345a.instant.min.js"></script>
+
+<style>
+.zm-side-section + .zm-side-section {
+margin: 20px 0 0 0;
+}
+.zm-profile-side-nav{
+padding:0;
+}
+.zm-profile-section-list .zm-item-answer-author-info .zm-item-link-avatar{
+display: none;
+}
+/*弱化同类链接颜色*/
+#zh-profile-answer-list .zm-item-answer-author-wrap a{
+color:#222;
+}
+</style>
+
+</head>
+
+<body class="zhi">
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo">知乎</a>
+
+<div class="top-nav-profile">
+<a href="/people/gong-xiao-wei" class="zu-top-nav-userinfo ">
+<span class="name">宫晓威</span>
+<img class="avatar avatar-s" alt="宫晓威" src="http://pic1.zhimg.com/21a5c20657e37d75c8b4bbdc70b5dd84_s.jpg" srcset="http://pic1.zhimg.com/21a5c20657e37d75c8b4bbdc70b5dd84_xs.jpg 2x" />
+<span id="zh-top-nav-new-pm" class="zg-noti-number zu-top-nav-pm-count"
+style="visibility:hidden" data-count="0">
+
+</span>
+</a>
+<ul class="top-nav-dropdown" id="top-nav-profile-dropdown">
+<li>
+<a href="/people/gong-xiao-wei">
+<i class="zg-icon zg-icon-dd-home"></i>我的主页
+</a>
+</li>
+
+<li>
+<a href="/inbox">
+<i class="zg-icon zg-icon-dd-pm"></i>私信
+<span id="zh-top-nav-pm-count" class="zu-top-nav-pm-count zg-noti-number"
+style="visibility:hidden" data-count="0">
+
+</span>
+</a>
+</li>
+<li>
+<a href="/settings">
+<i class="zg-icon zg-icon-dd-settings"></i>设置
+</a>
+</li>
+<li>
+<a href="/logout">
+<i class="zg-icon zg-icon-dd-logout"></i>退出
+</a>
+</li>
+</ul>
+
+</div>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form form-with-magnify">
+
+<input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索话题、问题或人…" />
+<input type="hidden" name="type" value="question" />
+<label for="q" class="hide-text">知乎搜索</label>
+<button type="submit" class="magnify-button"><i class="icon icon-magnify-q"></i><span class="hide-text">搜索</span></button>
+</form>
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home">首页</a>
+</li>
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+
+</li>
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+<li class="top-nav-noti zu-top-nav-li ">
+<a class="zu-top-nav-link" href="javascript:;" id="zh-top-nav-count-wrap" role="button"><span class="mobi-arrow"></span>消息</a>
+</li>
+
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-popup-refresh" style="display:none;">
+<img class="noti-spinner" src="/static/img/spinner2.gif" />
+</div>
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<img class="noti-spinner" src="/static/img/noti-loading.gif" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+
+</div>
+</div>
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+<div class="zg-wrap zu-main">
+<div class="zu-main-content">
+<div class="zu-main-content-inner" id="zh-pm-page-wrap">
+
+
+
+
+<div class="zm-profile-header">
+<div class="zm-profile-header-main">
+<div class="top">
+
+<div class='weibo-wrap'>
+
+</div>
+
+<div class="title-section ellipsis">
+<a class="name" href="/people/gong-xiao-wei">宫晓威</a>，<span class="bio" title="why so serious">why so serious</span>
+</div>
+</div>
+<div class="body clearfix">
+<div class="zm-profile-header-avatar-container self">
+<img class="avatar avatar-l" alt="宫晓威" src="http://pic1.zhimg.com/21a5c20657e37d75c8b4bbdc70b5dd84_l.jpg" srcset="http://pic1.zhimg.com/21a5c20657e37d75c8b4bbdc70b5dd84_xl.jpg 2x" />
+
+<span class="zm-entry-head-avatar-edit-button">修改头像</span>
+
+</div>
+<div class="zm-profile-header-info">
+<div class="zm-profile-header-user-describe">
+<div class="items">
+<div class="item editable-group" data-name="location">
+
+<i class="icon icon-profile-location"></i>
+
+<span class="info-wrap">
+
+<span class="location item" ><a href="javascript:;" class="zg-link-litblue-normal" name="edit">填写居住地</a></span>
+
+
+<span class="business item" ><a href="javascript:;" class="zg-link-litblue-normal" name="edit">填写行业</a></span>
+
+
+<span class="item gender" ><i class="icon icon-profile-male"></i></span>
+
+
+<a class="zu-edit-button edit" name="edit" href="javascript:;"><i class="zu-edit-button-icon"></i><span class="edit-msg">修改</span></a>
+
+</span>
+<span class="edit-wrap" style="display:none;">
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="location" value="" class="zg-form-text-input location" placeholder="居住地"/></span>
+<div class="business-selection">
+<select name="business">
+<option value="">选择行业</option>
+
+
+<option value="高新科技">高新科技</option>
+
+<option value="互联网">&nbsp;&nbsp;&nbsp;互联网</option>
+
+<option value="电子商务">&nbsp;&nbsp;&nbsp;电子商务</option>
+
+<option value="电子游戏">&nbsp;&nbsp;&nbsp;电子游戏</option>
+
+<option value="计算机软件">&nbsp;&nbsp;&nbsp;计算机软件</option>
+
+<option value="计算机硬件">&nbsp;&nbsp;&nbsp;计算机硬件</option>
+
+
+
+
+<option value="信息传媒">信息传媒</option>
+
+<option value="出版业">&nbsp;&nbsp;&nbsp;出版业</option>
+
+<option value="电影录音">&nbsp;&nbsp;&nbsp;电影录音</option>
+
+<option value="广播电视">&nbsp;&nbsp;&nbsp;广播电视</option>
+
+<option value="通信">&nbsp;&nbsp;&nbsp;通信</option>
+
+
+
+
+<option value="金融">金融</option>
+
+<option value="银行">&nbsp;&nbsp;&nbsp;银行</option>
+
+<option value="资本投资">&nbsp;&nbsp;&nbsp;资本投资</option>
+
+<option value="证券投资">&nbsp;&nbsp;&nbsp;证券投资</option>
+
+<option value="保险">&nbsp;&nbsp;&nbsp;保险</option>
+
+<option value="信贷">&nbsp;&nbsp;&nbsp;信贷</option>
+
+<option value="财务">&nbsp;&nbsp;&nbsp;财务</option>
+
+<option value="审计">&nbsp;&nbsp;&nbsp;审计</option>
+
+
+
+
+<option value="服务业">服务业</option>
+
+<option value="法律">&nbsp;&nbsp;&nbsp;法律</option>
+
+<option value="餐饮">&nbsp;&nbsp;&nbsp;餐饮</option>
+
+<option value="酒店">&nbsp;&nbsp;&nbsp;酒店</option>
+
+<option value="旅游">&nbsp;&nbsp;&nbsp;旅游</option>
+
+<option value="广告">&nbsp;&nbsp;&nbsp;广告</option>
+
+<option value="公关">&nbsp;&nbsp;&nbsp;公关</option>
+
+<option value="景观">&nbsp;&nbsp;&nbsp;景观</option>
+
+<option value="咨询分析">&nbsp;&nbsp;&nbsp;咨询分析</option>
+
+<option value="市场推广">&nbsp;&nbsp;&nbsp;市场推广</option>
+
+<option value="人力资源">&nbsp;&nbsp;&nbsp;人力资源</option>
+
+<option value="社工服务">&nbsp;&nbsp;&nbsp;社工服务</option>
+
+<option value="养老服务">&nbsp;&nbsp;&nbsp;养老服务</option>
+
+
+
+
+<option value="教育">教育</option>
+
+<option value="高等教育">&nbsp;&nbsp;&nbsp;高等教育</option>
+
+<option value="基础教育">&nbsp;&nbsp;&nbsp;基础教育</option>
+
+<option value="职业教育">&nbsp;&nbsp;&nbsp;职业教育</option>
+
+<option value="幼儿教育">&nbsp;&nbsp;&nbsp;幼儿教育</option>
+
+<option value="特殊教育">&nbsp;&nbsp;&nbsp;特殊教育</option>
+
+<option value="培训">&nbsp;&nbsp;&nbsp;培训</option>
+
+
+
+
+<option value="医疗服务">医疗服务</option>
+
+<option value="临床医疗">&nbsp;&nbsp;&nbsp;临床医疗</option>
+
+<option value="制药">&nbsp;&nbsp;&nbsp;制药</option>
+
+<option value="保健">&nbsp;&nbsp;&nbsp;保健</option>
+
+<option value="美容">&nbsp;&nbsp;&nbsp;美容</option>
+
+<option value="医疗器材">&nbsp;&nbsp;&nbsp;医疗器材</option>
+
+<option value="生物工程">&nbsp;&nbsp;&nbsp;生物工程</option>
+
+<option value="疗养服务">&nbsp;&nbsp;&nbsp;疗养服务</option>
+
+<option value="护理服务">&nbsp;&nbsp;&nbsp;护理服务</option>
+
+
+
+
+<option value="艺术娱乐">艺术娱乐</option>
+
+<option value="创意艺术">&nbsp;&nbsp;&nbsp;创意艺术</option>
+
+<option value="体育健身">&nbsp;&nbsp;&nbsp;体育健身</option>
+
+<option value="娱乐休闲">&nbsp;&nbsp;&nbsp;娱乐休闲</option>
+
+<option value="图书馆">&nbsp;&nbsp;&nbsp;图书馆</option>
+
+<option value="博物馆">&nbsp;&nbsp;&nbsp;博物馆</option>
+
+<option value="策展">&nbsp;&nbsp;&nbsp;策展</option>
+
+<option value="博彩">&nbsp;&nbsp;&nbsp;博彩</option>
+
+
+
+
+<option value="制造加工">制造加工</option>
+
+<option value="食品饮料业">&nbsp;&nbsp;&nbsp;食品饮料业</option>
+
+<option value="纺织皮革业">&nbsp;&nbsp;&nbsp;纺织皮革业</option>
+
+<option value="服装业">&nbsp;&nbsp;&nbsp;服装业</option>
+
+<option value="烟草业">&nbsp;&nbsp;&nbsp;烟草业</option>
+
+<option value="造纸业">&nbsp;&nbsp;&nbsp;造纸业</option>
+
+<option value="印刷业">&nbsp;&nbsp;&nbsp;印刷业</option>
+
+<option value="化工业">&nbsp;&nbsp;&nbsp;化工业</option>
+
+<option value="汽车">&nbsp;&nbsp;&nbsp;汽车</option>
+
+<option value="家具">&nbsp;&nbsp;&nbsp;家具</option>
+
+<option value="电子电器">&nbsp;&nbsp;&nbsp;电子电器</option>
+
+<option value="机械设备">&nbsp;&nbsp;&nbsp;机械设备</option>
+
+<option value="塑料工业">&nbsp;&nbsp;&nbsp;塑料工业</option>
+
+<option value="金属加工">&nbsp;&nbsp;&nbsp;金属加工</option>
+
+<option value="军火">&nbsp;&nbsp;&nbsp;军火</option>
+
+
+
+
+<option value="地产建筑">地产建筑</option>
+
+<option value="房地产">&nbsp;&nbsp;&nbsp;房地产</option>
+
+<option value="装饰装潢">&nbsp;&nbsp;&nbsp;装饰装潢</option>
+
+<option value="物业服务">&nbsp;&nbsp;&nbsp;物业服务</option>
+
+<option value="特殊建造">&nbsp;&nbsp;&nbsp;特殊建造</option>
+
+<option value="建筑设备">&nbsp;&nbsp;&nbsp;建筑设备</option>
+
+
+
+
+<option value="贸易零售">贸易零售</option>
+
+<option value="零售">&nbsp;&nbsp;&nbsp;零售</option>
+
+<option value="大宗交易">&nbsp;&nbsp;&nbsp;大宗交易</option>
+
+<option value="进出口贸易">&nbsp;&nbsp;&nbsp;进出口贸易</option>
+
+
+
+
+<option value="公共服务">公共服务</option>
+
+<option value="政府">&nbsp;&nbsp;&nbsp;政府</option>
+
+<option value="国防军事">&nbsp;&nbsp;&nbsp;国防军事</option>
+
+<option value="航天">&nbsp;&nbsp;&nbsp;航天</option>
+
+<option value="科研">&nbsp;&nbsp;&nbsp;科研</option>
+
+<option value="给排水">&nbsp;&nbsp;&nbsp;给排水</option>
+
+<option value="水利能源">&nbsp;&nbsp;&nbsp;水利能源</option>
+
+<option value="电力电网">&nbsp;&nbsp;&nbsp;电力电网</option>
+
+<option value="公共管理">&nbsp;&nbsp;&nbsp;公共管理</option>
+
+<option value="环境保护">&nbsp;&nbsp;&nbsp;环境保护</option>
+
+<option value="非营利组织">&nbsp;&nbsp;&nbsp;非营利组织</option>
+
+
+
+
+<option value="开采冶金">开采冶金</option>
+
+<option value="煤炭工业">&nbsp;&nbsp;&nbsp;煤炭工业</option>
+
+<option value="石油工业">&nbsp;&nbsp;&nbsp;石油工业</option>
+
+<option value="黑色金属">&nbsp;&nbsp;&nbsp;黑色金属</option>
+
+<option value="有色金属">&nbsp;&nbsp;&nbsp;有色金属</option>
+
+<option value="土砂石开采">&nbsp;&nbsp;&nbsp;土砂石开采</option>
+
+<option value="地热开采">&nbsp;&nbsp;&nbsp;地热开采</option>
+
+
+
+
+<option value="交通仓储">交通仓储</option>
+
+<option value="邮政">&nbsp;&nbsp;&nbsp;邮政</option>
+
+<option value="物流递送">&nbsp;&nbsp;&nbsp;物流递送</option>
+
+<option value="地面运输">&nbsp;&nbsp;&nbsp;地面运输</option>
+
+<option value="铁路运输">&nbsp;&nbsp;&nbsp;铁路运输</option>
+
+<option value="管线运输">&nbsp;&nbsp;&nbsp;管线运输</option>
+
+<option value="航运业">&nbsp;&nbsp;&nbsp;航运业</option>
+
+<option value="民用航空业">&nbsp;&nbsp;&nbsp;民用航空业</option>
+
+
+
+
+<option value="农林牧渔">农林牧渔</option>
+
+<option value="种植业">&nbsp;&nbsp;&nbsp;种植业</option>
+
+<option value="畜牧养殖业">&nbsp;&nbsp;&nbsp;畜牧养殖业</option>
+
+<option value="林业">&nbsp;&nbsp;&nbsp;林业</option>
+
+<option value="渔业">&nbsp;&nbsp;&nbsp;渔业</option>
+
+
+
+</select>
+</div>
+<span class="zg-bull">|</span>
+<input type="radio" name="gender" value="1" checked="checked" class="male"/> 男&nbsp;&nbsp;
+<input type="radio" name="gender" value="0"  class="female"/> 女
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+<div class="item editable-group empty" data-name="employment">
+<i class="icon icon-profile-company"></i>
+<span class="info-wrap">
+
+<span class="employment item" ><a href="javascript:;" class="zg-link-litblue-normal" name="edit">填写公司信息</a></span>
+
+
+<span class="position item" ><a href="javascript:;" class="zg-link-litblue-normal" name="edit">填写职位</a></span>
+
+
+<a class="zu-edit-button edit" name="edit" href="javascript:;"><i class="zu-edit-button-icon"></i><span class="edit-msg">修改</span></a>
+
+</span>
+<span class='info-empty-wrap'><a href="javascript:;" name="edit" class="zg-link-litblue-normal">填写工作信息</a></span>
+<span class="edit-wrap" style="display:none;">
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="employment" value="" class="zg-form-text-input employment" placeholder="公司或组织名称"/></span>
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="position" value="" class="zg-form-text-input position" placeholder="你的职位"/></span>
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+
+<div class="item editable-group empty" data-name="education" >
+<i class="icon icon-profile-education"></i>
+<span class="info-wrap">
+
+<span class="education item" ><a href=javascript:;" class="zg-link-litblue-normal" name="edit">填写学校信息</a></span>
+
+
+<span class="education-extra item" ><a href=javascript:;" class="zg-link-litblue-normal" name="edit">填写专业</a></span>
+
+
+<a class="zu-edit-button edit" name="edit" href="javascript:;"><i class="zu-edit-button-icon"></i><span class="edit-msg">修改</span></a>
+
+</span>
+<span class='info-empty-wrap'><a href="javascript:;" name="edit" class="zg-link-litblue-normal">填写教育信息</a></span>
+<span class="edit-wrap" style="display:none;">
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="education" value="" class="zg-form-text-input education" placeholder="学校或教育机构"/></span>
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="education" value="" class="zg-form-text-input education-extra" placeholder="专业方向"/></span>
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+
+<a class="zm-profile-header-user-detail zg-link-litblue-normal zm-profile-icon-return" href="/people/gong-xiao-wei">
+<i class="zm-profile-header-icon"></i>
+<span>返回个人主页</span>
+</a>
+
+</div>
+
+<div class="zm-profile-header-description editable-group empty" data-name="description">
+<span class="info-wrap fold-wrap fold disable-fold">
+<span class="description unfold-item">
+<span class="content">
+
+
+
+</span>
+<a href="javascript:;" name="fold" class="fold collapse meta-item"><i class="z-icon-fold"></i>收起</a>
+</span>
+<span class="fold-item">
+<span class="content">
+
+
+
+</span>
+<a href="javascript:;" class="unfold" name="unfold">显示全部 ?</a>
+</span>
+
+<a class="zu-edit-button edit" name="edit" href="javascript:;"><i class="zu-edit-button-icon"></i><span class="edit-msg">修改</span></a>
+
+</span>
+<span class='info-empty-wrap'><a href="javascript:;" name="edit" class="zg-link-litblue-normal"><i class="zg-icon zg-icon-edit-button-blue"></i>填写个人简介</a></span>
+<span class="edit-wrap" style="display:none;">
+<div class="zm-editable-editor-outer">
+<div class="zm-editable-editor-inner zg-form-text-input">
+<textarea name="description" value="" class="zm-editable-editor-input description" id="profile-header-description-input"></textarea>
+</div>
+</div>
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-profile-header-operation zg-clear  zm-profile-header-operation-myview">
+<div class="zm-profile-header-info-list">
+<span class="zm-profile-header-info-title">获得</span>
+<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>2</strong>赞同</span>
+<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>1</strong>感谢</span>
+
+</div>
+
+<a class="zm-profile-header-user-edit zg-link-litblue-normal zg-right" href="/people/edit"><i class="zg-icon zg-icon-edit-button-blue"></i>编辑我的资料</a>
+
+</div>
+<div class="profile-navbar clearfix">
+<a class="item home first "
+href="/people/gong-xiao-wei">
+<i class="icon icon-profile-tab-home"></i><span class="hide-text">主页</span>
+</a>
+<a class="item "
+href="/people/gong-xiao-wei/asks">
+提问
+<span class="num">0</span>
+</a>
+<a class="item "
+href="/people/gong-xiao-wei/answers">
+回答
+<span class="num">4</span>
+</a>
+<a class="item "
+href="/people/gong-xiao-wei/posts">
+专栏文章
+<span class="num">0</span>
+</a>
+<a class="item "
+href="/people/gong-xiao-wei/collections">
+收藏
+<span class="num">7</span>
+</a>
+<a class="item "
+href="/people/gong-xiao-wei/logs">
+公共编辑
+<span class="num">0</span>
+</a>
+</div>
+
+</div>
+
+
+<div class="zm-profile-section-wrap zm-profile-followee-page">
+<div class="zm-profile-section-head">
+<span class="zm-profile-section-name"><a href="/people/gong-xiao-wei">宫晓威</a> 关注了 34 人</span>
+<a class="zg-right zg-link-litblue-normal zm-profile-answer-page-return" href="/people/gong-xiao-wei">返回个人主页</a>
+</div>
+<div class="zm-profile-section-list">
+<div id="zh-profile-follows-list">
+<div class="zh-general-list clearfix" data-init="{&quot;params&quot;: {&quot;offset&quot;: 0, &quot;order_by&quot;: &quot;created&quot;, &quot;hash_id&quot;: &quot;d00ade9168907740fcea35fa5fbc7ace&quot;}, &quot;nodename&quot;: &quot;ProfileFolloweesListV2&quot;}">
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-followme="1" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small" data-id="00841a8ef77cffe40660c5fb6937cc38">
+<i class="zu-entry-focus-single-way zg-icon"></i> <i class="zu-entry-focus-each zg-icon"></i>取消关注
+</button>
+</div>
+<a title="Kiki"
+data-tip="p$t$zhang-kiki-30"
+class="zm-item-link-avatar"
+href="/people/zhang-kiki-30">
+<img src="http://pic4.zhimg.com/a51632b60af3f376db94b9135dcf913b_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$zhang-kiki-30" href="http://www.zhihu.com/people/zhang-kiki-30" class="zg-link" title="Kiki">Kiki</a></h2>
+
+<div class="zg-big-gray">功夫在诗外~</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/zhang-kiki-30/followers" class="zg-link-gray-normal">79 关注者</a>
+/
+<a target="_blank" href="/people/zhang-kiki-30/asks" class="zg-link-gray-normal">7 提问</a>
+/
+<a target="_blank" href="/people/zhang-kiki-30/answers" class="zg-link-gray-normal">45 回答</a>
+/
+<a target="_blank" href="/people/zhang-kiki-30" class="zg-link-gray-normal">54 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="c88a776320fa8b1928469b17e0aa44a5" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="Sunny"
+data-tip="p$t$li-yu-ting-sunny"
+class="zm-item-link-avatar"
+href="/people/li-yu-ting-sunny">
+<img src="http://pic1.zhimg.com/1c4f1876d6537cc827ec87ab415dd058_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$li-yu-ting-sunny" href="http://www.zhihu.com/people/li-yu-ting-sunny" class="zg-link" title="Sunny">Sunny</a></h2>
+
+<div class="zg-big-gray">我叫不正经(??_?`)</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/li-yu-ting-sunny/followers" class="zg-link-gray-normal">49259 关注者</a>
+/
+<a target="_blank" href="/people/li-yu-ting-sunny/asks" class="zg-link-gray-normal">6 提问</a>
+/
+<a target="_blank" href="/people/li-yu-ting-sunny/answers" class="zg-link-gray-normal">877 回答</a>
+/
+<a target="_blank" href="/people/li-yu-ting-sunny" class="zg-link-gray-normal">32173 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="010c6d7fc195b01145e471c09f84537d" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="kor wal"
+data-tip="p$t$walkor"
+class="zm-item-link-avatar"
+href="/people/walkor">
+<img src="http://pic1.zhimg.com/cb6ace6ba8d4d758db5040e56ebe130c_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$walkor" href="http://www.zhihu.com/people/walkor" class="zg-link" title="kor wal">kor wal</a></h2>
+
+<div class="zg-big-gray">workerman 作者</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/walkor/followers" class="zg-link-gray-normal">52 关注者</a>
+/
+<a target="_blank" href="/people/walkor/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/walkor/answers" class="zg-link-gray-normal">30 回答</a>
+/
+<a target="_blank" href="/people/walkor" class="zg-link-gray-normal">175 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="acb05f758c6249ff1a1d8aac2fe2aee6" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="苏菲"
+data-tip="p$t$su-fei-17"
+class="zm-item-link-avatar"
+href="/people/su-fei-17">
+<img src="http://pic2.zhimg.com/0cf546200dd897c9514f0e076a0a9c25_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$su-fei-17" href="http://www.zhihu.com/people/su-fei-17" class="zg-link" title="苏菲">苏菲</a></h2>
+
+<div class="zg-big-gray">欢迎关注这只猫嘴小超人(●'ｗ'●)</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/su-fei-17/followers" class="zg-link-gray-normal">240406 关注者</a>
+/
+<a target="_blank" href="/people/su-fei-17/asks" class="zg-link-gray-normal">52 提问</a>
+/
+<a target="_blank" href="/people/su-fei-17/answers" class="zg-link-gray-normal">264 回答</a>
+/
+<a target="_blank" href="/people/su-fei-17" class="zg-link-gray-normal">222361 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="24a54429e34ffe5abb6af7b45b81fafd" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="茶小花"
+data-tip="p$t$cha-xiao-hua-22"
+class="zm-item-link-avatar"
+href="/people/cha-xiao-hua-22">
+<img src="http://pic4.zhimg.com/c867fc93b_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$cha-xiao-hua-22" href="http://www.zhihu.com/people/cha-xiao-hua-22" class="zg-link" title="茶小花">茶小花</a></h2>
+
+<div class="zg-big-gray">微信香光王国chaxiaohuahm</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/cha-xiao-hua-22/followers" class="zg-link-gray-normal">26173 关注者</a>
+/
+<a target="_blank" href="/people/cha-xiao-hua-22/asks" class="zg-link-gray-normal">10 提问</a>
+/
+<a target="_blank" href="/people/cha-xiao-hua-22/answers" class="zg-link-gray-normal">85 回答</a>
+/
+<a target="_blank" href="/people/cha-xiao-hua-22" class="zg-link-gray-normal">43727 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="850590e84f2dffd39c60b37c4edc3baf" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="十一点半"
+data-tip="p$t$shi-yidian-ban-98"
+class="zm-item-link-avatar"
+href="/people/shi-yidian-ban-98">
+<img src="http://pic1.zhimg.com/2d81967f81f3d0ef57b304db21fc70e4_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$shi-yidian-ban-98" href="http://www.zhihu.com/people/shi-yidian-ban-98" class="zg-link" title="十一点半">十一点半</a></h2>
+
+<div class="zg-big-gray">暂无简介</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/shi-yidian-ban-98/followers" class="zg-link-gray-normal">11928 关注者</a>
+/
+<a target="_blank" href="/people/shi-yidian-ban-98/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/shi-yidian-ban-98/answers" class="zg-link-gray-normal">10 回答</a>
+/
+<a target="_blank" href="/people/shi-yidian-ban-98" class="zg-link-gray-normal">52004 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="8aad4f38cf19a691ef2135d3a85bb612" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="王茹"
+data-tip="p$t$wang-ru-64"
+class="zm-item-link-avatar"
+href="/people/wang-ru-64">
+<img src="http://pic3.zhimg.com/33c6cf59163b3f17ca0c091a5c0d9272_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$wang-ru-64" href="http://www.zhihu.com/people/wang-ru-64" class="zg-link" title="王茹">王茹</a></h2>
+
+<div class="zg-big-gray">独行之乐 愿君自尝。</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/wang-ru-64/followers" class="zg-link-gray-normal">9595 关注者</a>
+/
+<a target="_blank" href="/people/wang-ru-64/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/wang-ru-64/answers" class="zg-link-gray-normal">11 回答</a>
+/
+<a target="_blank" href="/people/wang-ru-64" class="zg-link-gray-normal">6004 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="b5a196b1596c76003790bb42d9248ab7" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="普二丁"
+data-tip="p$t$pu-er-ding-2"
+class="zm-item-link-avatar"
+href="/people/pu-er-ding-2">
+<img src="http://pic1.zhimg.com/671c92dbc_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$pu-er-ding-2" href="http://www.zhihu.com/people/pu-er-ding-2" class="zg-link" title="普二丁">普二丁</a></h2>
+
+<div class="zg-big-gray">会说故事的废物。</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/pu-er-ding-2/followers" class="zg-link-gray-normal">12441 关注者</a>
+/
+<a target="_blank" href="/people/pu-er-ding-2/asks" class="zg-link-gray-normal">8 提问</a>
+/
+<a target="_blank" href="/people/pu-er-ding-2/answers" class="zg-link-gray-normal">40 回答</a>
+/
+<a target="_blank" href="/people/pu-er-ding-2" class="zg-link-gray-normal">23530 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="b3a4d8ff36c2754d46bef9b854b4a558" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="极乐"
+data-tip="p$t$ji-le-18"
+class="zm-item-link-avatar"
+href="/people/ji-le-18">
+<img src="http://pic1.zhimg.com/817369875f010bc5676b4499ba398bfc_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$ji-le-18" href="http://www.zhihu.com/people/ji-le-18" class="zg-link" title="极乐">极乐</a></h2>
+
+<div class="zg-big-gray">心理交流群qq： 474860338</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/ji-le-18/followers" class="zg-link-gray-normal">30038 关注者</a>
+/
+<a target="_blank" href="/people/ji-le-18/asks" class="zg-link-gray-normal">3 提问</a>
+/
+<a target="_blank" href="/people/ji-le-18/answers" class="zg-link-gray-normal">285 回答</a>
+/
+<a target="_blank" href="/people/ji-le-18" class="zg-link-gray-normal">88116 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="025bcdafd57dbb53166c9615ab17619a" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="Sky李晓峰"
+data-tip="p$t$li-xiao-feng-sky"
+class="zm-item-link-avatar"
+href="/people/li-xiao-feng-sky">
+<img src="http://pic3.zhimg.com/f374969469745635565a63bcd36842f6_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$li-xiao-feng-sky" href="http://www.zhihu.com/people/li-xiao-feng-sky" class="zg-link" title="Sky李晓峰">Sky李晓峰</a></h2>
+
+<div class="zg-big-gray">钛度科技/电子竞技</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/li-xiao-feng-sky/followers" class="zg-link-gray-normal">40005 关注者</a>
+/
+<a target="_blank" href="/people/li-xiao-feng-sky/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/li-xiao-feng-sky/answers" class="zg-link-gray-normal">12 回答</a>
+/
+<a target="_blank" href="/people/li-xiao-feng-sky" class="zg-link-gray-normal">25519 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="dd22fc61d58a3f55634d4beb4397f8cf" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="石悦"
+data-tip="p$t$looli23"
+class="zm-item-link-avatar"
+href="/people/looli23">
+<img src="http://pic4.zhimg.com/45801dd3de8a2dbdb2ce89c735eab29b_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$looli23" href="http://www.zhihu.com/people/looli23" class="zg-link" title="石悦">石悦</a></h2>
+
+<div class="zg-big-gray">以色列</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/looli23/followers" class="zg-link-gray-normal">10790 关注者</a>
+/
+<a target="_blank" href="/people/looli23/asks" class="zg-link-gray-normal">4 提问</a>
+/
+<a target="_blank" href="/people/looli23/answers" class="zg-link-gray-normal">103 回答</a>
+/
+<a target="_blank" href="/people/looli23" class="zg-link-gray-normal">7169 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="b35db0fa58aaaf00c1b7a2ebad55e91c" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="波西婭Portia"
+data-tip="p$t$PortiaC"
+class="zm-item-link-avatar"
+href="/people/PortiaC">
+<img src="http://pic3.zhimg.com/2f6e89d5d9bb2fc6c8b453d228cc1252_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$PortiaC" href="http://www.zhihu.com/people/PortiaC" class="zg-link" title="波西婭Portia">波西婭Portia</a></h2>
+
+<div class="zg-big-gray">自我洗涤</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/PortiaC/followers" class="zg-link-gray-normal">39349 关注者</a>
+/
+<a target="_blank" href="/people/PortiaC/asks" class="zg-link-gray-normal">34 提问</a>
+/
+<a target="_blank" href="/people/PortiaC/answers" class="zg-link-gray-normal">81 回答</a>
+/
+<a target="_blank" href="/people/PortiaC" class="zg-link-gray-normal">44663 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="146b3c0667f4451b9f3d712fa4009b7a" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="Lily Kim"
+data-tip="p$t$pinknoir"
+class="zm-item-link-avatar"
+href="/people/pinknoir">
+<img src="http://pic3.zhimg.com/79eafa86e0472801fe9fcf2805091502_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$pinknoir" href="http://www.zhihu.com/people/pinknoir" class="zg-link" title="Lily Kim">Lily Kim</a></h2>
+
+<div class="zg-big-gray">新浪：Lily在学什么</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/pinknoir/followers" class="zg-link-gray-normal">12336 关注者</a>
+/
+<a target="_blank" href="/people/pinknoir/asks" class="zg-link-gray-normal">6 提问</a>
+/
+<a target="_blank" href="/people/pinknoir/answers" class="zg-link-gray-normal">35 回答</a>
+/
+<a target="_blank" href="/people/pinknoir" class="zg-link-gray-normal">13892 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="98dda706d62552f94e91341715e2ab61" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="Moemoe Li"
+data-tip="p$t$moemoeli"
+class="zm-item-link-avatar"
+href="/people/moemoeli">
+<img src="http://pic3.zhimg.com/b3e134b9a16766f46d3672682ba499ee_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$moemoeli" href="http://www.zhihu.com/people/moemoeli" class="zg-link" title="Moemoe Li">Moemoe Li</a></h2>
+
+<div class="zg-big-gray">不是魔法少女是魔法师</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/moemoeli/followers" class="zg-link-gray-normal">15924 关注者</a>
+/
+<a target="_blank" href="/people/moemoeli/asks" class="zg-link-gray-normal">54 提问</a>
+/
+<a target="_blank" href="/people/moemoeli/answers" class="zg-link-gray-normal">266 回答</a>
+/
+<a target="_blank" href="/people/moemoeli" class="zg-link-gray-normal">9908 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="55541691adc7393b62f12e351fd96910" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="代码豆"
+data-tip="p$t$dai-ma-dou"
+class="zm-item-link-avatar"
+href="/people/dai-ma-dou">
+<img src="http://pic4.zhimg.com/7bed3a33f_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$dai-ma-dou" href="http://www.zhihu.com/people/dai-ma-dou" class="zg-link" title="代码豆">代码豆</a></h2>
+
+<div class="zg-big-gray">debug debugger everyday...</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/dai-ma-dou/followers" class="zg-link-gray-normal">1494 关注者</a>
+/
+<a target="_blank" href="/people/dai-ma-dou/asks" class="zg-link-gray-normal">2 提问</a>
+/
+<a target="_blank" href="/people/dai-ma-dou/answers" class="zg-link-gray-normal">57 回答</a>
+/
+<a target="_blank" href="/people/dai-ma-dou" class="zg-link-gray-normal">864 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="3b7348a610ed1aec4f8c749b93d5cae5" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="Alan Li"
+data-tip="p$t$alan.li"
+class="zm-item-link-avatar"
+href="/people/alan.li">
+<img src="http://pic1.zhimg.com/da8e974dc_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$alan.li" href="http://www.zhihu.com/people/alan.li" class="zg-link" title="Alan Li">Alan Li</a></h2>
+
+<div class="zg-big-gray">JIT Compiler Optimization Developer, CUDA/OpenCL evangelist.</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/alan.li/followers" class="zg-link-gray-normal">881 关注者</a>
+/
+<a target="_blank" href="/people/alan.li/asks" class="zg-link-gray-normal">1 提问</a>
+/
+<a target="_blank" href="/people/alan.li/answers" class="zg-link-gray-normal">66 回答</a>
+/
+<a target="_blank" href="/people/alan.li" class="zg-link-gray-normal">514 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="ef11bdf1550a10c6a23036599f2e82ff" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="廖彬"
+data-tip="p$t$liao-bin-buddy"
+class="zm-item-link-avatar"
+href="/people/liao-bin-buddy">
+<img src="http://pic4.zhimg.com/cf6492ea6ce2b7d8c90c17e5e2b2fbab_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$liao-bin-buddy" href="http://www.zhihu.com/people/liao-bin-buddy" class="zg-link" title="廖彬">廖彬</a></h2>
+
+<div class="zg-big-gray">A PhD who does research in JVM &amp; GC</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/liao-bin-buddy/followers" class="zg-link-gray-normal">641 关注者</a>
+/
+<a target="_blank" href="/people/liao-bin-buddy/asks" class="zg-link-gray-normal">3 提问</a>
+/
+<a target="_blank" href="/people/liao-bin-buddy/answers" class="zg-link-gray-normal">16 回答</a>
+/
+<a target="_blank" href="/people/liao-bin-buddy" class="zg-link-gray-normal">341 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="1c7f429366f5db6b3cf05e2b6eaac0a9" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="陈萌萌"
+data-tip="p$t$chen-meng-meng-19"
+class="zm-item-link-avatar"
+href="/people/chen-meng-meng-19">
+<img src="http://pic2.zhimg.com/0a25b2a0d_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$chen-meng-meng-19" href="http://www.zhihu.com/people/chen-meng-meng-19" class="zg-link" title="陈萌萌">陈萌萌</a></h2>
+
+<div class="zg-big-gray">专业送绝望，包邮，八刀一份_(:з」∠)_</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/chen-meng-meng-19/followers" class="zg-link-gray-normal">23473 关注者</a>
+/
+<a target="_blank" href="/people/chen-meng-meng-19/asks" class="zg-link-gray-normal">2 提问</a>
+/
+<a target="_blank" href="/people/chen-meng-meng-19/answers" class="zg-link-gray-normal">98 回答</a>
+/
+<a target="_blank" href="/people/chen-meng-meng-19" class="zg-link-gray-normal">8872 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="0c8e01c6e304c4be6e4c923943bb2d03" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="雷幺幺"
+data-tip="p$t$YSGG"
+class="zm-item-link-avatar"
+href="/people/YSGG">
+<img src="http://pic1.zhimg.com/b729297c0_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$YSGG" href="http://www.zhihu.com/people/YSGG" class="zg-link" title="雷幺幺">雷幺幺</a></h2>
+
+<div class="zg-big-gray">混广告界的逗比，无节操不解释</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/YSGG/followers" class="zg-link-gray-normal">78826 关注者</a>
+/
+<a target="_blank" href="/people/YSGG/asks" class="zg-link-gray-normal">12 提问</a>
+/
+<a target="_blank" href="/people/YSGG/answers" class="zg-link-gray-normal">469 回答</a>
+/
+<a target="_blank" href="/people/YSGG" class="zg-link-gray-normal">159552 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="f89f3aef5f3d8af8972f99992ca77779" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+</div>
+<a title="Chen Michael"
+data-tip="p$t$chen-michael-42"
+class="zm-item-link-avatar"
+href="/people/chen-michael-42">
+<img src="http://pic2.zhimg.com/c8c3bf31ec6a6f6ec6ebea3541e52829_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$chen-michael-42" href="http://www.zhihu.com/people/chen-michael-42" class="zg-link" title="Chen Michael">Chen Michael</a></h2>
+
+<div class="zg-big-gray">WnMStudio游戏制作人</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/chen-michael-42/followers" class="zg-link-gray-normal">521 关注者</a>
+/
+<a target="_blank" href="/people/chen-michael-42/asks" class="zg-link-gray-normal">2 提问</a>
+/
+<a target="_blank" href="/people/chen-michael-42/answers" class="zg-link-gray-normal">126 回答</a>
+/
+<a target="_blank" href="/people/chen-michael-42" class="zg-link-gray-normal">1467 赞同</a>
+</div>
+
+</div>
+</div>
+
+</div>
+<a href="javascript:;" id="zh-load-more" data-method="next" class="zg-btn-white zg-r3px zu-button-more" style="display:none">更多</a>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="zu-main-sidebar">
+<div class="zm-profile-side-following zg-clear">
+<a class="item" href="/people/gong-xiao-wei/followees">
+<span class="zg-gray-normal">关注了</span><br />
+<strong>34</strong><label> 人</label>
+</a>
+<a class="item" href="/people/gong-xiao-wei/followers">
+<span class="zg-gray-normal">关注者</span><br />
+<strong>3</strong><label> 人</label>
+</a>
+</div>
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner zg-clear">
+<div class="zm-profile-side-section-title">
+关注了 <a href="/people/gong-xiao-wei/columns/followed" class="zg-link-litblue"><strong>1 个专栏</strong></a>
+</div>
+<div class="zm-profile-side-columns">
+
+<a href="http://zhuanlan.zhihu.com/vczh-nichijou" data-tip="c$t$vczh-nichijou" class="link" target="_blank">
+<img src="http://pic1.zhimg.com/4004dcea0_l.jpg" title="vczh的日常" class="avatar">
+</a>
+
+</div>
+</div>
+</div>
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner zg-clear">
+<div class="zm-profile-side-section-title">
+关注了 <a href="/people/gong-xiao-wei/topics" class="zg-link-litblue"><strong>16 个话题</strong></a>
+</div>
+<div class="zm-profile-side-topics" id="zh-profile-following-topic">
+
+<a class="link" data-tip="t$t$19550994" href="/topic/19550994">
+<img class="avatar" src="http://pic4.zhimg.com/fb89e0ea3_m.jpg" title="游戏">
+</a>
+
+<a class="link" data-tip="t$t$19555035" href="/topic/19555035">
+<img class="avatar" src="http://pic4.zhimg.com/a76ed0583_m.jpg" title="魔兽争霸 3">
+</a>
+
+<a class="link" data-tip="t$t$19550517" href="/topic/19550517">
+<img class="avatar" src="http://pic4.zhimg.com/f07808da5625fef3607f8b75b770349f_m.jpg" title="互联网">
+</a>
+
+<a class="link" data-tip="t$t$19551718" href="/topic/19551718">
+<img class="avatar" src="http://pic2.zhimg.com/e872dc791_m.jpg" title="软件">
+</a>
+
+<a class="link" data-tip="t$t$19552192" href="/topic/19552192">
+<img class="avatar" src="http://pic4.zhimg.com/5bda61313f8e3767edaa6134941e207b_m.jpg" title="健身">
+</a>
+
+<a class="link" data-tip="t$t$19552330" href="/topic/19552330">
+<img class="avatar" src="http://pic3.zhimg.com/acda162ad89c9b8995b51028d5233d1a_m.jpg" title="程序员">
+</a>
+
+<a class="link" data-tip="t$t$19553732" href="/topic/19553732">
+<img class="avatar" src="http://pic1.zhimg.com/3734851af83bfe4133625278962c4324_m.jpg" title="单机游戏">
+</a>
+
+</div>
+</div>
+</div>
+<div class="zm-profile-side-section friendliness">
+<div class="zm-side-section-inner">
+<div class="zm-profile-side-section-title">
+友善度
+<a href="/community/friendly" class="friendliness-stars" data-tip="s$r$仅自己可见">
+<span class="gray-stars"></span>
+<span class="blue-stars" style="width: 100.0%"></span>
+</a>
+</div>
+
+
+</div>
+</div>
+
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner">
+<span class="zg-gray-normal">个人主页被 <strong>22</strong> 人浏览</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="current_people">["\u5bab\u6653\u5a01","gong-xiao-wei","http:\/\/pic1.zhimg.com\/21a5c20657e37d75c8b4bbdc70b5dd84_s.jpg","d00ade9168907740fcea35fa5fbc7ace"]</script>
+<div id="zh-footer" class="zh-footer">
+<div class="zg-wrap clearfix">
+<ul>
+
+<li><a href="/question/19581624" target='_blank'>知乎指南</a></li>
+<li><a href="javascript:;" id="js-feedback-button">建议反馈</a></li>
+
+<li><a href="/app" target='_blank'>移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="mailto:bd@zhihu.com">商务合作</a></li>
+</ul>
+<span class="copy">&copy; 2015 知乎</span>
+</div>
+</div>
+
+</div>
+<div class="zg-clear"></div>
+</div>
+
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+
+
+
+
+
+<script type="text/template" class="activate-dialog-template">
+
+<div class="link-activate-view clearfix">
+<div class="tip">为了正常使用知乎的提问、回答、评论和编辑功能，请验证你的邮箱。</div>
+<div class="describe">你绑定的邮箱如下，请查收邮件激活你的帐号</div>
+<div class="email">50953758@qq.com</div>
+<div class="actions">
+<a class="resend-activation-email zg-link-litblue-normal" href="#">重发激活邮件</a>
+<span class="zg-bull">·</span>
+<a class="zg-link-litblue-normal" href="/settings/account">修改邮箱</a>
+</div>
+</div>
+
+</script>
+<script type="text/json" class="json-inline" data-name="current_user">["\u5bab\u6653\u5a01","gong-xiao-wei","http:\/\/pic1.zhimg.com\/21a5c20657e37d75c8b4bbdc70b5dd84_s.jpg","d00ade9168907740fcea35fa5fbc7ace","why so serious",0,0,1,"50953758@qq.com","http:\/\/mail.qq.com",0,true,false,38477139804160]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1388057876000,"now":1439121959000,"abtest_mask":"---------1--------------------","user_attr":[1,0,0,"-",1],"user_hash":"d00ade9168907740fcea35fa5fbc7ace"}</script>
+
+<script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/627b413052a71858a7a4113dd6f79c74.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/436ced42ad89d9aeb7a2511b5df1e83b.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/5036ff62e426c587a8cee949050e294d.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/7ea840f36b86a028ccc98165995559cc.rich_text_editor.js"></script>
+
+<script type="text/zscript" znonce="e90babb3669546caaad2618fdacd41f2">
+ZH.entryP();
+</script>
+
+<input type="hidden" name="_xsrf" value="2fd8c9059d757ce6d4770c7ea46983a1"/>
+</body>
+</html>
