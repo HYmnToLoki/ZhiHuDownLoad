@@ -16,6 +16,8 @@ import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.commons.httpclient.methods.PostMethod;
 import org.apache.commons.httpclient.params.HttpMethodParams;
 
+import Net.MainThread;
+
 
 
 public class TestGetPage {
@@ -49,7 +51,7 @@ public class TestGetPage {
 //		getMethod.addRequestHeader("Origin","http://www.zhihu.com");
 //		getMethod.addRequestHeader("Host","www.zhihu.com");
 //		getMethod.addRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8");
-		getMethod.addRequestHeader("Cookie","_za=e152be18-1ffe-4231-a329-a4552c0efbd3; q_c1=b51f9f918815456bbed34237ea5dfca8|1438085254000|1438085254000; cap_id=\"MjM1MjI5N2MzODk1NDg2M2FjMDZhNjQ3NWZkZTQzMWE=|1438085254|3683d09865d655fd5fa4bde47aa92fb370949523\"; z_c0=\"QUFCQXFQNGlBQUFYQUFBQVlRSlZUWW45M2xVdkNzMTFsSFJudjJnWHdlQzhsQzZlYVR0XzlRPT0=|1438085257|f99e7b6edf3bd2043487071f0ea6ff11c227637a\"; _xsrf=2fd8c9059d757ce6d4770c7ea46983a1; tc=AQAAAFxnuR02twgAjLj3cPF3c9s0Lebx; __utmt=1; __utma=51854390.1379204766.1438085205.1438778718.1438859888.3; __utmb=51854390.27.9.1438862846996; __utmc=51854390; __utmz=51854390.1438085205.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmv=51854390.100-1|2=registration_date=20131226=1^3=entry_date=20131226=1");
+		getMethod.addRequestHeader("Cookie",MainThread.ReadCookie());
 		
 		
 		try {

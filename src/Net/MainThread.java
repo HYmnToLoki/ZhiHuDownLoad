@@ -20,7 +20,7 @@ import org.apache.commons.httpclient.params.HttpMethodParams;
 public class MainThread {
 	
 	final static int BUFFER_SIZE = 4096;
-	final static String COOKIEPATH_STRING="_za=e152be18-1ffe-4231-a329-a4552c0efbd3; q_c1=b51f9f918815456bbed34237ea5dfca8|1438085254000|1438085254000; cap_id=\"MjM1MjI5N2MzODk1NDg2M2FjMDZhNjQ3NWZkZTQzMWE=|1438085254|3683d09865d655fd5fa4bde47aa92fb370949523\"; z_c0=\"QUFCQXFQNGlBQUFYQUFBQVlRSlZUWW45M2xVdkNzMTFsSFJudjJnWHdlQzhsQzZlYVR0XzlRPT0=|1438085257|f99e7b6edf3bd2043487071f0ea6ff11c227637a\"; _xsrf=2fd8c9059d757ce6d4770c7ea46983a1; tc=AQAAAFxnuR02twgAjLj3cPF3c9s0Lebx; __utmt=1; __utma=51854390.1379204766.1438085205.1438778718.1438859888.3; __utmb=51854390.27.9.1438862846996; __utmc=51854390; __utmz=51854390.1438085205.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmv=51854390.100-1|2=registration_date=20131226=1^3=entry_date=20131226=1";
+	final static String COOKIEPATH_STRING="E:/cookie.txt";
 	public static String GetUserFollow(String UserFollowsUri)
 	{
 		String pageString="";
@@ -39,7 +39,7 @@ public class MainThread {
 		getMethod.getParams().setParameter(HttpMethodParams.SO_TIMEOUT, 5000);
 		getMethod.getParams().setParameter(HttpMethodParams.RETRY_HANDLER,
 				new DefaultHttpMethodRetryHandler());
-		getMethod.addRequestHeader("Cookie",COOKIEPATH_STRING);
+		getMethod.addRequestHeader("Cookie",MainThread.ReadCookie().substring(0,699));
 
 		try {
 			int statut=httpClient.executeMethod(getMethod);
@@ -100,30 +100,30 @@ public class MainThread {
 		data = null;
 		return new String(outStream.toByteArray(), encoding);
 	}
-//	/**
-//	 * 读取cookie中的信息
-//	 */
-//	 public static String ReadCookie(){
-//         File file=new File(COOKIEPATH_STRING);
-//         String sssString="";
-//		try {
-//			if(!file.exists()||file.isDirectory())
-//			     throw new FileNotFoundException();
-//			 FileInputStream fis=new FileInputStream(file);
-//			 byte[] buf = new byte[1024];
-//			 StringBuffer sb = new StringBuffer();
-//			 while((fis.read(buf))!=-1){
-//			     sb.append(new String(buf));    
-//			     buf=new byte[1024];//重新生成，避免和上次读取的数据重复
-//			 }
-//			 sssString=sb.toString();
-//		} catch (FileNotFoundException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		} catch (IOException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
-//         return sssString;
-//     }
+	/**
+	 * 读取cookie中的信息
+	 */
+	 public static String ReadCookie(){
+         File file=new File(COOKIEPATH_STRING);
+         String sssString="";
+		try {
+			if(!file.exists()||file.isDirectory())
+			     throw new FileNotFoundException();
+			 FileInputStream fis=new FileInputStream(file);
+			 byte[] buf = new byte[1024];
+			 StringBuffer sb = new StringBuffer();
+			 while((fis.read(buf))!=-1){
+			     sb.append(new String(buf));    
+			     buf=new byte[1024];//重新生成，避免和上次读取的数据重复
+			 }
+			 sssString=sb.toString();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+         return sssString;
+     }
 }
