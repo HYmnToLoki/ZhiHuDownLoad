@@ -32,7 +32,7 @@
 
 <link rel="canonical" href="http://www.zhihu.com" />
 
-<meta id="znonce" name="znonce" content="c3fd6cc31a744e4f9cd133b89e38042e">
+<meta id="znonce" name="znonce" content="fe2670f76d9f4dcc9fc149898e41d4f6">
 <!--[if lt IE 9]>
 <script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
 <link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
@@ -40,7 +40,7 @@
 <script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
 <![endif]-->
 
-<script src="http://static.zhihu.com/static/ver/8fc2686c4d610241ee5c53c04271345a.instant.min.js"></script>
+<script src="http://static.zhihu.com/static/ver/881eced7455dbba5c51d3fa98ba6666d.instant.min.js"></script>
 </head>
 <body class="zhi">
 
@@ -55,7 +55,7 @@
 <div id="js-sign-flow" class="desk-front sign-flow clearfix">
 <div class="view view-signin">
 <form>
-<input type="hidden" name="_xsrf" value="b70ffb77a7a3019bf0ee30b87b8215e8"/>
+<input type="hidden" name="_xsrf" value="549bf8c446ab7064e91e04181fd44619"/>
 <div class="title">
 <a class="js-signup signin-switch with-icon" href="#signup">注册<i class="icon-sign icon-sign-arrow"></i></a>
 <a class="with-icon return">
@@ -98,7 +98,7 @@
 <div class="view view-signup selected">
 <form class="zu-side-login-box" action="/register/email" id="sign-form-1" autocomplete="off">
 <input type="password" hidden> 
-<input type="hidden" name="_xsrf" value="b70ffb77a7a3019bf0ee30b87b8215e8"/>
+<input type="hidden" name="_xsrf" value="549bf8c446ab7064e91e04181fd44619"/>
 <div class="title">
 <a class="js-signin signin-switch with-icon" href="#signin">登录<i class="icon-sign icon-sign-arrow"></i></a>
 <a class="with-icon return"><i class="icon-sign icon-sign-arrow-l"></i><span class="js-title-label">注册帐号</span></a>
@@ -157,7 +157,16 @@
 
 
 
-<a target="_blank" href="/people/patrickluo" class="rep current" data-type="member" data-token="4265c545cf4082e80eea50617ff60cca">
+<a target="_blank" href="/people/imike" class="rep current" data-type="member" data-token="8b68876001197b3b9cd605b20814616f">
+<span class="info-card">张亮</span>
+<img class="avatar avatar-m" alt="张亮" src="http://pic4.zhimg.com/465513667_m.jpg" srcset="http://pic4.zhimg.com/465513667_t.jpg 2x" />
+</a>
+
+
+
+
+
+<a target="_blank" href="/people/patrickluo" class="rep" data-type="member" data-token="4265c545cf4082e80eea50617ff60cca">
 <span class="info-card">Luo Patrick</span>
 <img class="avatar avatar-m" alt="Luo Patrick" src="http://pic3.zhimg.com/37b3bbce6_m.jpg" srcset="http://pic3.zhimg.com/37b3bbce6_t.jpg 2x" />
 </a>
@@ -165,40 +174,10 @@
 
 
 
-<a target="_blank" href="/topic/19550453" class="rep" data-type="topic" data-token="19550453">
-<span class="info-card">音乐</span>
-<img class="avatar avatar-m" alt="音乐" src="http://pic3.zhimg.com/f68e393f5e1c5399fa14b9514593df92_m.jpg" srcset="http://pic3.zhimg.com/f68e393f5e1c5399fa14b9514593df92_t.jpg 2x" />
-</a>
 
-
-
-
-<a target="_blank" href="/people/moonmonster" class="rep" data-type="member" data-token="021b8a95614aeac74347f441505205e9">
-<span class="info-card">MoonMonster</span>
-<img class="avatar avatar-m" alt="MoonMonster" src="http://pic4.zhimg.com/3df29abc3_m.jpg" srcset="http://pic4.zhimg.com/3df29abc3_t.jpg 2x" />
-</a>
-
-
-
-
-<a target="_blank" href="/topic/19604128" class="rep" data-type="topic" data-token="19604128">
-<span class="info-card">医学</span>
-<img class="avatar avatar-m" alt="医学" src="http://pic1.zhimg.com/a78b253d8f27af0933c63bae17bb5cb0_m.jpg" srcset="http://pic1.zhimg.com/a78b253d8f27af0933c63bae17bb5cb0_t.jpg 2x" />
-</a>
-
-
-
-<a target="_blank" href="/topic/19559052" class="rep" data-type="topic" data-token="19559052">
-<span class="info-card">足球</span>
-<img class="avatar avatar-m" alt="足球" src="http://pic2.zhimg.com/06fecb761_m.jpg" srcset="http://pic2.zhimg.com/06fecb761_t.jpg 2x" />
-</a>
-
-
-
-
-<a target="_blank" href="/people/eric-liu" class="rep" data-type="member" data-token="e40204272b22d519b1848517520ce3cb">
-<span class="info-card">Eric Liu</span>
-<img class="avatar avatar-m" alt="Eric Liu" src="http://pic2.zhimg.com/e7e2eea5d133fd606c359d2e7fc437b9_m.jpg" srcset="http://pic2.zhimg.com/e7e2eea5d133fd606c359d2e7fc437b9_t.jpg 2x" />
+<a target="_blank" href="/people/raymond-wang" class="rep" data-type="member" data-token="f2b961082c021f92f2ce1db6ff935fa5">
+<span class="info-card">Raymond Wang</span>
+<img class="avatar avatar-m" alt="Raymond Wang" src="http://pic4.zhimg.com/7e626246b_m.jpg" srcset="http://pic4.zhimg.com/7e626246b_t.jpg 2x" />
 </a>
 
 
@@ -212,54 +191,52 @@
 
 
 
-<a target="_blank" href="/people/aullik5" class="rep" data-type="member" data-token="929dc8c4f87a15a8cb708a3534c8b299">
-<span class="info-card">道哥</span>
-<img class="avatar avatar-m" alt="道哥" src="http://pic3.zhimg.com/8e7626696_m.jpg" srcset="http://pic3.zhimg.com/8e7626696_t.jpg 2x" />
-</a>
-
-
-
-
-<a target="_blank" href="/topic/19565870" class="rep" data-type="topic" data-token="19565870">
-<span class="info-card">谷歌 (Google)</span>
-<img class="avatar avatar-m" alt="谷歌 (Google)" src="http://pic1.zhimg.com/9fb7a6538_m.jpg" srcset="http://pic1.zhimg.com/9fb7a6538_t.jpg 2x" />
-</a>
-
-
-
-
-<a target="_blank" href="/people/id47" class="rep" data-type="member" data-token="3fc0e5ac8e0e61552b1b0529ba49b3e7">
-<span class="info-card">袁浩瀚</span>
-<img class="avatar avatar-m" alt="袁浩瀚" src="http://pic3.zhimg.com/2d9b32906_m.jpg" srcset="http://pic3.zhimg.com/2d9b32906_t.jpg 2x" />
+<a target="_blank" href="/people/hi-id" class="rep" data-type="member" data-token="55ff9b7864ecd46dd0194ac1411787d8">
+<span class="info-card">Hi-iD</span>
+<img class="avatar avatar-m" alt="Hi-iD" src="http://pic2.zhimg.com/8ffe2ed7d_m.jpg" srcset="http://pic2.zhimg.com/8ffe2ed7d_t.jpg 2x" />
 </a>
 
 
 
 
 
-<a target="_blank" href="/people/feng-dong" class="rep" data-type="member" data-token="44faf17ff5f5a4ccc4cf9bda47de8da2">
-<span class="info-card">冯东</span>
-<img class="avatar avatar-m" alt="冯东" src="http://pic1.zhimg.com/1d3b18c14_m.jpg" srcset="http://pic1.zhimg.com/1d3b18c14_t.jpg 2x" />
+<a target="_blank" href="/people/yin-xiao-er" class="rep" data-type="member" data-token="3bb3fb6314bc29d7fb9a42977f910129">
+<span class="info-card">尹小二</span>
+<img class="avatar avatar-m" alt="尹小二" src="http://pic4.zhimg.com/69feb6f649db114f98b53b0704657d9f_m.jpg" srcset="http://pic4.zhimg.com/69feb6f649db114f98b53b0704657d9f_t.jpg 2x" />
 </a>
 
 
 
 
 
-<a target="_blank" href="/people/mj1997" class="rep" data-type="member" data-token="66297d6c8981d941e0f0ae1c37751106">
-<span class="info-card">MJ勺子</span>
-<img class="avatar avatar-m" alt="MJ勺子" src="http://pic1.zhimg.com/da7d5cbb024b8a826eb12db5c71c99c8_m.jpg" srcset="http://pic1.zhimg.com/da7d5cbb024b8a826eb12db5c71c99c8_t.jpg 2x" />
+<a target="_blank" href="/people/magasa" class="rep" data-type="member" data-token="78dd7b7be85989df73b8b0ee1857e537">
+<span class="info-card">magasa</span>
+<img class="avatar avatar-m" alt="magasa" src="http://pic2.zhimg.com/50e9c2601_m.jpg" srcset="http://pic2.zhimg.com/50e9c2601_t.jpg 2x" />
 </a>
 
 
 
 
-
-<a target="_blank" href="/people/zhang-jia-wei" class="rep" data-type="member" data-token="f9de84865e3e8455a09af78bfe4d1da5">
-<span class="info-card">张佳玮</span>
-<img class="avatar avatar-m" alt="张佳玮" src="http://pic2.zhimg.com/424c70919_m.jpg" srcset="http://pic2.zhimg.com/424c70919_t.jpg 2x" />
+<a target="_blank" href="/topic/19550292" class="rep" data-type="topic" data-token="19550292">
+<span class="info-card">iPhone</span>
+<img class="avatar avatar-m" alt="iPhone" src="http://pic2.zhimg.com/bd6b19fc1_m.jpg" srcset="http://pic2.zhimg.com/bd6b19fc1_t.jpg 2x" />
 </a>
 
+
+
+
+<a target="_blank" href="/people/eric-liu" class="rep" data-type="member" data-token="e40204272b22d519b1848517520ce3cb">
+<span class="info-card">Eric Liu</span>
+<img class="avatar avatar-m" alt="Eric Liu" src="http://pic2.zhimg.com/e7e2eea5d133fd606c359d2e7fc437b9_m.jpg" srcset="http://pic2.zhimg.com/e7e2eea5d133fd606c359d2e7fc437b9_t.jpg 2x" />
+</a>
+
+
+
+
+<a target="_blank" href="/topic/19553032" class="rep" data-type="topic" data-token="19553032">
+<span class="info-card">广告</span>
+<img class="avatar avatar-m" alt="广告" src="http://pic1.zhimg.com/70ddd5e0c_m.jpg" srcset="http://pic1.zhimg.com/70ddd5e0c_t.jpg 2x" />
+</a>
 
 
 
@@ -270,10 +247,33 @@
 
 
 
+<a target="_blank" href="/topic/19550560" class="rep" data-type="topic" data-token="19550560">
+<span class="info-card">创业</span>
+<img class="avatar avatar-m" alt="创业" src="http://pic4.zhimg.com/b75f995419ff775ff71fca685d7825af_m.jpg" srcset="http://pic4.zhimg.com/b75f995419ff775ff71fca685d7825af_t.jpg 2x" />
+</a>
 
-<a target="_blank" href="/people/zhou-xiao-nong" class="rep" data-type="member" data-token="fe0e9b1d4c51c5ee6c856a5c2c20aa29">
-<span class="info-card">周晓农</span>
-<img class="avatar avatar-m" alt="周晓农" src="http://pic3.zhimg.com/e6b30e5ce_m.jpg" srcset="http://pic3.zhimg.com/e6b30e5ce_t.jpg 2x" />
+
+
+
+<a target="_blank" href="/people/panxin" class="rep" data-type="member" data-token="8fbb42031ce0fd2e289feb070edf585d">
+<span class="info-card">潘欣</span>
+<img class="avatar avatar-m" alt="潘欣" src="http://pic1.zhimg.com/50bae2ea59cea5c432c791f7c40d9640_m.jpg" srcset="http://pic1.zhimg.com/50bae2ea59cea5c432c791f7c40d9640_t.jpg 2x" />
+</a>
+
+
+
+
+<a target="_blank" href="/topic/19551432" class="rep" data-type="topic" data-token="19551432">
+<span class="info-card">心理学</span>
+<img class="avatar avatar-m" alt="心理学" src="http://pic2.zhimg.com/f56cd9f0a4ca585cc2a7dddd99032d6d_m.jpg" srcset="http://pic2.zhimg.com/f56cd9f0a4ca585cc2a7dddd99032d6d_t.jpg 2x" />
+</a>
+
+
+
+
+<a target="_blank" href="/people/id47" class="rep" data-type="member" data-token="3fc0e5ac8e0e61552b1b0529ba49b3e7">
+<span class="info-card">袁浩瀚</span>
+<img class="avatar avatar-m" alt="袁浩瀚" src="http://pic3.zhimg.com/2d9b32906_m.jpg" srcset="http://pic3.zhimg.com/2d9b32906_t.jpg 2x" />
 </a>
 
 
@@ -287,42 +287,42 @@
 <i class="icon-sign icon-sign-spike"></i>
 
 <div class="single-story-inner">
-<img class="avatar avatar-m" alt="Luo Patrick" src="http://pic3.zhimg.com/37b3bbce6_m.jpg" srcset="http://pic3.zhimg.com/37b3bbce6_t.jpg 2x" />
+<img class="avatar avatar-m" alt="张亮" src="http://pic4.zhimg.com/465513667_m.jpg" srcset="http://pic4.zhimg.com/465513667_t.jpg 2x" />
 <div class="story-title">
 <div>
 
-<a class="name" href="/people/patrickluo" target="_blank">Luo Patrick</a><span>www.lingxianlicai.com</span>
+<a class="name" href="/people/imike" target="_blank">张亮</a><span>创业者</span>
 
 </div>
-<div>在知乎回答了 540 个问题，247170 人关注他。</div>
+<div>在知乎回答了 1362 个问题，618675 人关注他。</div>
 </div>
 <div class="sep"></div>
 <div class="story-content">
 
 <div class="story-content-answer">
 <span class="vote">
-1019
+8003
 </span>
-<p><a class="question_link" target="_blank" href="/question/20026588#answer-608149">怎样从政府高层的讲话中获取信息？</a></p>
+<p><a class="question_link" target="_blank" href="/question/20721867#answer-1525829">什么叫见过大世面？</a></p>
 </div>
 
 <div class="story-content-answer">
 <span class="vote">
-678
+5879
 </span>
-<p><a class="question_link" target="_blank" href="/question/24752647#answer-6927447">小米自己做 VC 了， 为什么还要进行融资？</a></p>
+<p><a class="question_link" target="_blank" href="/question/21259831#answer-2268313">如何评价郭敬明小说改编的电影《小时代》？</a></p>
 </div>
 
 <div class="story-content-answer">
 <span class="vote">
-562
+4947
 </span>
-<p><a class="question_link" target="_blank" href="/question/27739317#answer-10596394">中央明确农村集体土地承包权、所有权不得流转，意义何在？</a></p>
+<p><a class="question_link" target="_blank" href="/question/28856924#answer-12566448">为什么在现实中从来见不到知乎大神那样的人？</a></p>
 </div>
 
 </div>
 <div class="sep"></div>
-<div class="story-end">Luo Patrick 在 <a href="/people/patrickluo/topic/19559516/answers" target="_blank">首次公开募股（IPO）</a>、<a href="/people/patrickluo/topic/19550895/answers" target="_blank">投资银行</a>、<a href="/people/patrickluo/topic/19590377/answers" target="_blank">证券公司</a> 等话题下获得了 23186 个赞同</div>
+<div class="story-end">张亮在 <a href="/people/imike/topic/19550415/answers" target="_blank">媒体</a>、<a href="/people/imike/topic/19550422/answers" target="_blank">风险投资（VC）</a> 等话题下获得了 134072 个赞同</div>
 </div>
 
 </div>
@@ -331,6 +331,8 @@
 </div>
 </div>
 <div class="sitemap" style="display:none">
+
+<a href="http://www.zhihu.com/map/good_question_150809.html">2015-08-09</a>
 
 <a href="http://www.zhihu.com/map/good_question_150808.html">2015-08-08</a>
 
@@ -343,8 +345,6 @@
 <a href="http://www.zhihu.com/map/good_question_150804.html">2015-08-04</a>
 
 <a href="http://www.zhihu.com/map/good_question_150803.html">2015-08-03</a>
-
-<a href="http://www.zhihu.com/map/good_question_150802.html">2015-08-02</a>
 
 </div>
 <div class="footer">
@@ -606,14 +606,14 @@
 <script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
 <script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null]</script>
 
-<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439122835000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1439194121000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
 
 <script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
-<script src="http://static.zhihu.com/static/ver/627b413052a71858a7a4113dd6f79c74.app_core.js"></script>
-<script src="http://static.zhihu.com/static/ver/436ced42ad89d9aeb7a2511b5df1e83b.sign.js"></script>
+<script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
+<script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
 
 <meta name="entry" content="ZH.entrySignPage">
 
-<input type="hidden" name="_xsrf" value="b70ffb77a7a3019bf0ee30b87b8215e8"/>
+<input type="hidden" name="_xsrf" value="549bf8c446ab7064e91e04181fd44619"/>
 </body>
 </html>
