@@ -39,7 +39,34 @@ public class TextRegex {
 			pageString=TextRegex.ReadPageString();
 		//1、匹配html中img标签的正则：<img.*src=(.*?)[^>]*?>
 		//2、匹配img标签中得src中http路径的正则：http:\"?(.*?)(\"|>|\\s+)
-		Pattern p=Pattern.compile("(?<=<span class=\"name\">).*(?=</span>)");
+		//获得用户的姓名
+		//Pattern p=Pattern.compile("(?<=<a class=\"name\".{0,100}>).*(?=</a>)");
+		//获得用户头像
+		//Pattern p=Pattern.compile("(?<=<img class=\"avatar avatar-l\".{0,100}src=\").*(?=\" srcset)");
+		//获得用户的个人简介
+		//Pattern p=Pattern.compile("(?<=<span class=\"bio\".{0,100}>).*(?=</span>)");
+		//获得用户的详细介绍
+		//Pattern p=Pattern.compile("(?<=<span class=\"description unfold-item\">\n<span class=\"content\">\n\n).*(?=\n)");
+		//获得用户的地址
+		//Pattern p=Pattern.compile("(?<=<span class=\"location item\" title=\").*(?=\"><a)");
+		//获得用户从事的行业
+		//Pattern p=Pattern.compile("(?<=<span class=\"business item\" title=\").*(?=\"><a)");
+		//获得用户的性别
+		//Pattern p=Pattern.compile("(?<=<span class=\"item gender\" ><i class=\").*(?=\"></i>)");
+		//获得用户的公司
+		//Pattern p=Pattern.compile("(?<=<span class=\"employment item\" title=\").*(?=</span>)");
+		//获得用户的职位
+		//Pattern p=Pattern.compile("(?<=<span class=\"position item\" title=\").*(?=\"><a)");
+		//获得用户的大学
+		//Pattern p=Pattern.compile("(?<=<span class=\"education item\" title=\").*(?=\"><a)");
+		//获得用户的专业
+		//Pattern p=Pattern.compile("(?<=<span class=\"education-extra item\" title=').*(?='><a)");
+		//获得关注了人数
+		//Pattern p=Pattern.compile("(?<=<span class=\"zg-gray-normal\">关注了</span><br />\n<strong>).*(?=</strong>)");
+		//获得关注者人数
+		//Pattern p=Pattern.compile("(?<=<span class=\"zg-gray-normal\">关注者</span><br />\n<strong>).*(?=</strong>)");
+		//获得用户的hash_id
+		Pattern p=Pattern.compile("(?<=<script type=\"text/json\" class=\"json-inline\" data-name=\"current_user\">.{0,100}\n{0,1}.{0,100}jpg\",\").{32}");
 		Matcher m = p.matcher(pageString);
 		while (m.find()) {
 			System.out.println(m.group());
