@@ -21,6 +21,7 @@ public class MainThread {
 	
 	final static int BUFFER_SIZE = 4096;
 	final static String COOKIEPATH_STRING="E:/cookie.txt";
+	final static String USERCOOKIR_STRING="E:/usercookie.txt";
 	public static String GetUserFollow(String UserFollowsUri)
 	{
 		String pageString="";
@@ -39,7 +40,8 @@ public class MainThread {
 		getMethod.getParams().setParameter(HttpMethodParams.SO_TIMEOUT, 5000);
 		getMethod.getParams().setParameter(HttpMethodParams.RETRY_HANDLER,
 				new DefaultHttpMethodRetryHandler());
-		getMethod.addRequestHeader("Cookie",MainThread.ReadCookie().substring(0,699));
+		//System.out.println(MainThread.ReadCookie(USERCOOKIR_STRING).substring(0,750));
+		getMethod.addRequestHeader("Cookie",MainThread.ReadCookie(USERCOOKIR_STRING).substring(0,750));
 
 		try {
 			int statut=httpClient.executeMethod(getMethod);
@@ -52,6 +54,7 @@ public class MainThread {
 			{
 				InputStream content = getMethod.getResponseBodyAsStream();
 				pageString = InputStreamTOString(content, "UTF-8");
+				fileWriter(pageString);
 			}
 		} catch (HttpException e) {
 			// TODO Auto-generated catch block
@@ -103,8 +106,8 @@ public class MainThread {
 	/**
 	 * 读取cookie中的信息
 	 */
-	 public static String ReadCookie(){
-         File file=new File(COOKIEPATH_STRING);
+	 public static String ReadCookie(String cookie){
+         File file=new File(cookie);
          String sssString="";
 		try {
 			if(!file.exists()||file.isDirectory())
