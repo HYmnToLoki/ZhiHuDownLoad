@@ -6,6 +6,7 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
+import Been.User;
 import Dao.DaoTools;
 import Net.MainThread;
 import Test.TestGetPage;
@@ -38,14 +39,18 @@ public class Gui extends JFrame implements ActionListener {
 				String UserFollowsUri = "http://www.zhihu.com/people/" + seed
 						+ "/followees";
 				pageString = MainThread.GetUserFollow(UserFollowsUri);
+				User user=MainThread.GetUserInfo(pageString, seed);
+				if(DaoTools.InsertUserInfo(user))
+				{
+					System.out.println("插入成功");
+				}
 				//将的到的网址写入text文件，以便测试正则表达式
-				MainThread.fileWriter(pageString);
-				System.out.println(pageString);
+				//MainThread.fileWriter(pageString);
+				//System.out.println(pageString);
 
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-				System.out.println("Usercatch取出错误");
 			}
 		}
 

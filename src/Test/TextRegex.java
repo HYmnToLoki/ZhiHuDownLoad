@@ -64,9 +64,9 @@ public class TextRegex {
 		//获得关注了人数
 		//Pattern p=Pattern.compile("(?<=<span class=\"zg-gray-normal\">关注了</span><br />\n<strong>).*(?=</strong>)");
 		//获得关注者人数
-		//Pattern p=Pattern.compile("(?<=<span class=\"zg-gray-normal\">关注者</span><br />\n<strong>).*(?=</strong>)");
+		Pattern p=Pattern.compile("(?<=<span class=\"zg-gray-normal\">关注者</span><br />\n<strong>).*(?=</strong>)");
 		//获得用户的hash_id
-		Pattern p=Pattern.compile("(?<=<script type=\"text/json\" class=\"json-inline\" data-name=\"current_user\">.{0,100}\n{0,1}.{0,100}jpg\",\").{32}");
+		//Pattern p=Pattern.compile("(?<=<script type=\"text/json\" class=\"json-inline\" data-name=\"current_user\">.{0,100}\n{0,1}.{0,100}jpg\",\").{32}");
 		Matcher m = p.matcher(pageString);
 		while (m.find()) {
 			System.out.println(m.group());
