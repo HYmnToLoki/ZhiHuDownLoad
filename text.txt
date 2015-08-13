@@ -14,7 +14,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 <meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/zhang-kiki-30/followees">
-<meta id="znonce" name="znonce" content="f1ac8785ef3344f7a00f8e2e07857993">
+<meta id="znonce" name="znonce" content="978922ec1d204714b1172e5c35474026">
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
@@ -26,7 +26,7 @@
 <link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
 
 <link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
-<link rel="stylesheet" href="http://static.zhihu.com/static/ver/e827b73d8f25a233cbeeeb9421baeddb.z.css">
+<link rel="stylesheet" href="http://static.zhihu.com/static/ver/674bf4f0e05e4b18c6389f28dff2bc4d.z.css">
 
 
 
@@ -657,7 +657,7 @@ href="/people/zhang-kiki-30/asks">
 <a class="item "
 href="/people/zhang-kiki-30/answers">
 回答
-<span class="num">46</span>
+<span class="num">47</span>
 </a>
 <a class="item "
 href="/people/zhang-kiki-30/posts">
@@ -703,13 +703,13 @@ href="/people/kaifulee">
 
 <div class="zg-big-gray">创新工场CEO</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/kaifulee/followers" class="zg-link-gray-normal">893037 关注者</a>
+<a target="_blank" href="/people/kaifulee/followers" class="zg-link-gray-normal">893687 关注者</a>
 /
 <a target="_blank" href="/people/kaifulee/asks" class="zg-link-gray-normal">6 提问</a>
 /
 <a target="_blank" href="/people/kaifulee/answers" class="zg-link-gray-normal">104 回答</a>
 /
-<a target="_blank" href="/people/kaifulee" class="zg-link-gray-normal">59917 赞同</a>
+<a target="_blank" href="/people/kaifulee" class="zg-link-gray-normal">60079 赞同</a>
 </div>
 
 </div>
@@ -730,13 +730,13 @@ href="/people/fadeoc">
 
 <div class="zg-big-gray">You can call me F。</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/fadeoc/followers" class="zg-link-gray-normal">1731 关注者</a>
+<a target="_blank" href="/people/fadeoc/followers" class="zg-link-gray-normal">1740 关注者</a>
 /
 <a target="_blank" href="/people/fadeoc/asks" class="zg-link-gray-normal">43 提问</a>
 /
 <a target="_blank" href="/people/fadeoc/answers" class="zg-link-gray-normal">375 回答</a>
 /
-<a target="_blank" href="/people/fadeoc" class="zg-link-gray-normal">11965 赞同</a>
+<a target="_blank" href="/people/fadeoc" class="zg-link-gray-normal">12034 赞同</a>
 </div>
 
 </div>
@@ -757,13 +757,13 @@ href="/people/dualmastiffdechen">
 
 <div class="zg-big-gray">我又升级了！</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/dualmastiffdechen/followers" class="zg-link-gray-normal">12498 关注者</a>
+<a target="_blank" href="/people/dualmastiffdechen/followers" class="zg-link-gray-normal">12522 关注者</a>
 /
 <a target="_blank" href="/people/dualmastiffdechen/asks" class="zg-link-gray-normal">0 提问</a>
 /
 <a target="_blank" href="/people/dualmastiffdechen/answers" class="zg-link-gray-normal">224 回答</a>
 /
-<a target="_blank" href="/people/dualmastiffdechen" class="zg-link-gray-normal">56009 赞同</a>
+<a target="_blank" href="/people/dualmastiffdechen" class="zg-link-gray-normal">56221 赞同</a>
 </div>
 
 </div>
@@ -790,7 +790,7 @@ href="/people/peng-ke-huan-zhe">
 /
 <a target="_blank" href="/people/peng-ke-huan-zhe/answers" class="zg-link-gray-normal">10 回答</a>
 /
-<a target="_blank" href="/people/peng-ke-huan-zhe" class="zg-link-gray-normal">2258 赞同</a>
+<a target="_blank" href="/people/peng-ke-huan-zhe" class="zg-link-gray-normal">2260 赞同</a>
 </div>
 
 </div>
@@ -811,13 +811,13 @@ href="/people/jeffz">
 
 <div class="zg-big-gray">知乎“温赵轮”三大软狗之一。</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/jeffz/followers" class="zg-link-gray-normal">72434 关注者</a>
+<a target="_blank" href="/people/jeffz/followers" class="zg-link-gray-normal">72458 关注者</a>
 /
 <a target="_blank" href="/people/jeffz/asks" class="zg-link-gray-normal">9 提问</a>
 /
-<a target="_blank" href="/people/jeffz/answers" class="zg-link-gray-normal">1080 回答</a>
+<a target="_blank" href="/people/jeffz/answers" class="zg-link-gray-normal">1081 回答</a>
 /
-<a target="_blank" href="/people/jeffz" class="zg-link-gray-normal">74240 赞同</a>
+<a target="_blank" href="/people/jeffz" class="zg-link-gray-normal">74339 赞同</a>
 </div>
 
 </div>
@@ -838,13 +838,13 @@ href="/people/marsliu">
 
 <div class="zg-big-gray">程序员</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/marsliu/followers" class="zg-link-gray-normal">13773 关注者</a>
+<a target="_blank" href="/people/marsliu/followers" class="zg-link-gray-normal">13802 关注者</a>
 /
 <a target="_blank" href="/people/marsliu/asks" class="zg-link-gray-normal">1 提问</a>
 /
-<a target="_blank" href="/people/marsliu/answers" class="zg-link-gray-normal">1058 回答</a>
+<a target="_blank" href="/people/marsliu/answers" class="zg-link-gray-normal">1062 回答</a>
 /
-<a target="_blank" href="/people/marsliu" class="zg-link-gray-normal">30075 赞同</a>
+<a target="_blank" href="/people/marsliu" class="zg-link-gray-normal">30325 赞同</a>
 </div>
 
 </div>
@@ -865,13 +865,13 @@ href="/people/fouber">
 
 <div class="zg-big-gray">前端工程师</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/fouber/followers" class="zg-link-gray-normal">5982 关注者</a>
+<a target="_blank" href="/people/fouber/followers" class="zg-link-gray-normal">6030 关注者</a>
 /
 <a target="_blank" href="/people/fouber/asks" class="zg-link-gray-normal">1 提问</a>
 /
 <a target="_blank" href="/people/fouber/answers" class="zg-link-gray-normal">39 回答</a>
 /
-<a target="_blank" href="/people/fouber" class="zg-link-gray-normal">8909 赞同</a>
+<a target="_blank" href="/people/fouber" class="zg-link-gray-normal">8971 赞同</a>
 </div>
 
 </div>
@@ -919,13 +919,13 @@ href="/people/xiao-jing-mo">
 
 <div class="zg-big-gray">???★★★★★</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/xiao-jing-mo/followers" class="zg-link-gray-normal">31536 关注者</a>
+<a target="_blank" href="/people/xiao-jing-mo/followers" class="zg-link-gray-normal">31594 关注者</a>
 /
 <a target="_blank" href="/people/xiao-jing-mo/asks" class="zg-link-gray-normal">25 提问</a>
 /
-<a target="_blank" href="/people/xiao-jing-mo/answers" class="zg-link-gray-normal">1644 回答</a>
+<a target="_blank" href="/people/xiao-jing-mo/answers" class="zg-link-gray-normal">1647 回答</a>
 /
-<a target="_blank" href="/people/xiao-jing-mo" class="zg-link-gray-normal">61861 赞同</a>
+<a target="_blank" href="/people/xiao-jing-mo" class="zg-link-gray-normal">62241 赞同</a>
 </div>
 
 </div>
@@ -946,13 +946,13 @@ href="/people/su-ge-7-64">
 
 <div class="zg-big-gray">我是学生</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/su-ge-7-64/followers" class="zg-link-gray-normal">1716 关注者</a>
+<a target="_blank" href="/people/su-ge-7-64/followers" class="zg-link-gray-normal">1735 关注者</a>
 /
 <a target="_blank" href="/people/su-ge-7-64/asks" class="zg-link-gray-normal">5 提问</a>
 /
 <a target="_blank" href="/people/su-ge-7-64/answers" class="zg-link-gray-normal">22 回答</a>
 /
-<a target="_blank" href="/people/su-ge-7-64" class="zg-link-gray-normal">8113 赞同</a>
+<a target="_blank" href="/people/su-ge-7-64" class="zg-link-gray-normal">8225 赞同</a>
 </div>
 
 </div>
@@ -973,13 +973,13 @@ href="/people/chen-michael-42">
 
 <div class="zg-big-gray">WnMStudio游戏制作人</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/chen-michael-42/followers" class="zg-link-gray-normal">522 关注者</a>
+<a target="_blank" href="/people/chen-michael-42/followers" class="zg-link-gray-normal">541 关注者</a>
 /
 <a target="_blank" href="/people/chen-michael-42/asks" class="zg-link-gray-normal">2 提问</a>
 /
 <a target="_blank" href="/people/chen-michael-42/answers" class="zg-link-gray-normal">126 回答</a>
 /
-<a target="_blank" href="/people/chen-michael-42" class="zg-link-gray-normal">1480 赞同</a>
+<a target="_blank" href="/people/chen-michael-42" class="zg-link-gray-normal">1528 赞同</a>
 </div>
 
 </div>
@@ -1000,13 +1000,13 @@ href="/people/YSGG">
 
 <div class="zg-big-gray">混广告界的逗比，无节操不解释</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/YSGG/followers" class="zg-link-gray-normal">79008 关注者</a>
+<a target="_blank" href="/people/YSGG/followers" class="zg-link-gray-normal">79124 关注者</a>
 /
 <a target="_blank" href="/people/YSGG/asks" class="zg-link-gray-normal">12 提问</a>
 /
 <a target="_blank" href="/people/YSGG/answers" class="zg-link-gray-normal">469 回答</a>
 /
-<a target="_blank" href="/people/YSGG" class="zg-link-gray-normal">160018 赞同</a>
+<a target="_blank" href="/people/YSGG" class="zg-link-gray-normal">160277 赞同</a>
 </div>
 
 </div>
@@ -1033,7 +1033,7 @@ href="/people/chen-meng-meng-19">
 /
 <a target="_blank" href="/people/chen-meng-meng-19/answers" class="zg-link-gray-normal">98 回答</a>
 /
-<a target="_blank" href="/people/chen-meng-meng-19" class="zg-link-gray-normal">8885 赞同</a>
+<a target="_blank" href="/people/chen-meng-meng-19" class="zg-link-gray-normal">8893 赞同</a>
 </div>
 
 </div>
@@ -1108,13 +1108,13 @@ href="/people/dai-ma-dou">
 
 <div class="zg-big-gray">debug debugger everyday...</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/dai-ma-dou/followers" class="zg-link-gray-normal">1495 关注者</a>
+<a target="_blank" href="/people/dai-ma-dou/followers" class="zg-link-gray-normal">1496 关注者</a>
 /
 <a target="_blank" href="/people/dai-ma-dou/asks" class="zg-link-gray-normal">2 提问</a>
 /
 <a target="_blank" href="/people/dai-ma-dou/answers" class="zg-link-gray-normal">57 回答</a>
 /
-<a target="_blank" href="/people/dai-ma-dou" class="zg-link-gray-normal">869 赞同</a>
+<a target="_blank" href="/people/dai-ma-dou" class="zg-link-gray-normal">872 赞同</a>
 </div>
 
 </div>
@@ -1135,13 +1135,13 @@ href="/people/moemoeli">
 
 <div class="zg-big-gray">不是魔法少女是魔法师</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/moemoeli/followers" class="zg-link-gray-normal">15931 关注者</a>
+<a target="_blank" href="/people/moemoeli/followers" class="zg-link-gray-normal">15947 关注者</a>
 /
 <a target="_blank" href="/people/moemoeli/asks" class="zg-link-gray-normal">54 提问</a>
 /
 <a target="_blank" href="/people/moemoeli/answers" class="zg-link-gray-normal">266 回答</a>
 /
-<a target="_blank" href="/people/moemoeli" class="zg-link-gray-normal">9918 赞同</a>
+<a target="_blank" href="/people/moemoeli" class="zg-link-gray-normal">9927 赞同</a>
 </div>
 
 </div>
@@ -1162,13 +1162,13 @@ href="/people/pinknoir">
 
 <div class="zg-big-gray">新浪：Lily在学什么</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/pinknoir/followers" class="zg-link-gray-normal">12918 关注者</a>
+<a target="_blank" href="/people/pinknoir/followers" class="zg-link-gray-normal">13157 关注者</a>
 /
 <a target="_blank" href="/people/pinknoir/asks" class="zg-link-gray-normal">6 提问</a>
 /
 <a target="_blank" href="/people/pinknoir/answers" class="zg-link-gray-normal">35 回答</a>
 /
-<a target="_blank" href="/people/pinknoir" class="zg-link-gray-normal">14867 赞同</a>
+<a target="_blank" href="/people/pinknoir" class="zg-link-gray-normal">15124 赞同</a>
 </div>
 
 </div>
@@ -1189,13 +1189,13 @@ href="/people/PortiaC">
 
 <div class="zg-big-gray">自我洗涤</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/PortiaC/followers" class="zg-link-gray-normal">39401 关注者</a>
+<a target="_blank" href="/people/PortiaC/followers" class="zg-link-gray-normal">40640 关注者</a>
 /
 <a target="_blank" href="/people/PortiaC/asks" class="zg-link-gray-normal">34 提问</a>
 /
-<a target="_blank" href="/people/PortiaC/answers" class="zg-link-gray-normal">81 回答</a>
+<a target="_blank" href="/people/PortiaC/answers" class="zg-link-gray-normal">80 回答</a>
 /
-<a target="_blank" href="/people/PortiaC" class="zg-link-gray-normal">44801 赞同</a>
+<a target="_blank" href="/people/PortiaC" class="zg-link-gray-normal">45112 赞同</a>
 </div>
 
 </div>
@@ -1216,13 +1216,13 @@ href="/people/looli23">
 
 <div class="zg-big-gray">以色列</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/looli23/followers" class="zg-link-gray-normal">10792 关注者</a>
+<a target="_blank" href="/people/looli23/followers" class="zg-link-gray-normal">10824 关注者</a>
 /
 <a target="_blank" href="/people/looli23/asks" class="zg-link-gray-normal">4 提问</a>
 /
 <a target="_blank" href="/people/looli23/answers" class="zg-link-gray-normal">103 回答</a>
 /
-<a target="_blank" href="/people/looli23" class="zg-link-gray-normal">7171 赞同</a>
+<a target="_blank" href="/people/looli23" class="zg-link-gray-normal">7218 赞同</a>
 </div>
 
 </div>
@@ -1270,9 +1270,13 @@ href="/people/looli23">
 <div class="zm-profile-side-section">
 <div class="zm-side-section-inner zg-clear">
 <div class="zm-profile-side-section-title">
-关注了 <a href="/people/zhang-kiki-30/columns/followed" class="zg-link-litblue"><strong>4 个专栏</strong></a>
+关注了 <a href="/people/zhang-kiki-30/columns/followed" class="zg-link-litblue"><strong>5 个专栏</strong></a>
 </div>
 <div class="zm-profile-side-columns">
+
+<a href="http://zhuanlan.zhihu.com/24frames" data-tip="c$t$24frames" class="link" target="_blank">
+<img src="http://pic3.zhimg.com/39b44c96ad11e1851632f09b71cdc9fe_l.jpg" title="二十四帧" class="avatar">
+</a>
 
 <a href="http://zhuanlan.zhihu.com/calligraphy" data-tip="c$t$calligraphy" class="link" target="_blank">
 <img src="http://pic4.zhimg.com/d5f6a0f8f_l.jpg" title="寫?字" class="avatar">
@@ -1348,7 +1352,7 @@ href="/people/looli23">
 
 <div class="zm-profile-side-section">
 <div class="zm-side-section-inner">
-<span class="zg-gray-normal">个人主页被 <strong>105</strong> 人浏览</span>
+<span class="zg-gray-normal">个人主页被 <strong>106</strong> 人浏览</span>
 </div>
 </div>
 
@@ -1399,15 +1403,15 @@ href="/people/looli23">
 <script type="text/json" class="json-inline" data-name="permissions">[]</script>
 
 
-<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1388057876000,"now":1439296081000,"abtest_mask":"---------1--------------------","user_attr":[1,0,0,"-",1],"user_hash":"d00ade9168907740fcea35fa5fbc7ace"}</script>
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1388057876000,"now":1439472243000,"abtest_mask":"---------1--------------------","user_attr":[1,0,0,"-",1],"user_hash":"d00ade9168907740fcea35fa5fbc7ace"}</script>
 
 <script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
 <script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
 <script src="http://static.zhihu.com/static/ver/95f0f0ba6d8ccaf3bd3340519da0f951.sign.js"></script>
-<script src="http://static.zhihu.com/static/ver/b0f50671d77e9fa87d6ccd7e2fc71de7.app.js"></script>
+<script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
 <script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
 
-<script type="text/zscript" znonce="f1ac8785ef3344f7a00f8e2e07857993">
+<script type="text/zscript" znonce="978922ec1d204714b1172e5c35474026">
 ZH.entryP();
 </script>
 
