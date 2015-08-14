@@ -12,6 +12,46 @@ public class DaoTools {
 	final static String driverString = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
 	final static String conString = "jdbc:sqlserver://127.0.0.1:1433;databasename=ZhiHuUser";
 
+	public static boolean InsertUserCatch(String id)
+	{
+		PreparedStatement preparedStatement=null;
+		Connection connection=null;
+		Statement smStatement=null;
+		ResultSet rsResultSet = null;
+		try {
+			Class.forName(driverString);
+			connection=DriverManager.getConnection(conString,"sa","123456");
+			preparedStatement=connection.prepareStatement("insert into UserCache (id) values(?)");
+			preparedStatement.setString(1, id);		
+			if(preparedStatement.executeUpdate()>0)
+			{
+				return true;
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		finally
+		{
+			try {
+				if(rsResultSet==null)
+				{
+					rsResultSet.close();
+				}
+				if(smStatement==null)
+				{
+					smStatement.close();
+				}
+				if(connection==null)
+				{
+					connection.close();
+				}
+				
+			} catch (Exception e2) {
+
+			}
+		}
+		return false;
+	}
 	public static String getOneUserCatch() throws Exception {
 		String id = "";
 		Connection connection = null;
@@ -99,6 +139,40 @@ public class DaoTools {
 
 			}
 		}
+		return false;
+	}
+	public static boolean CheckInfo(String userString)
+	{
+		Connection conn=null;
+		Statement statement=null;
+		ResultSet resultSet=null;
+		try {
+			Class.forName(driverString);
+			conn = DriverManager.getConnection(conString, "sa", "123456");
+			statement = conn.createStatement();
+			resultSet = statement.executeQuery("select top 1 * from User_info where id='"+userString+"'");
+			if (resultSet.next()) {
+				return true;
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				if (resultSet == null) {
+					resultSet.close();
+				}
+				if (statement == null) {
+					statement.close();
+				}
+				if (conn == null) {
+					conn.close();
+				}
+
+			} catch (Exception e2) {
+
+			}
+		}
+		
 		return false;
 	}
 	public static void main(String[] args) {

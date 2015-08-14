@@ -2,6 +2,17 @@ package Been;
 
 public class User {
 
+	@Override
+	public String toString() {
+		return "User [hash_id=" + hash_id + ", id=" + id + ", avatar=" + avatar
+				+ ", name=" + name + ", jianjie=" + jianjie + ", jieshao="
+				+ jieshao + ", location=" + location + ", bussiness="
+				+ bussiness + ", gender=" + gender + ", employment="
+				+ employment + ", position=" + position + ", education="
+				+ education + ", education_extra=" + education_extra
+				+ ", followees=" + followees + ", followers=" + followers + "]";
+	}
+
 	public User() {
 		hash_id = ""; // 用户的hash_id
 		id = ""; // 用户的id

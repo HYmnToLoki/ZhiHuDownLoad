@@ -12,7 +12,7 @@ import Net.MainThread;
 import Test.TestGetPage;
 
 public class Gui extends JFrame implements ActionListener {
-
+	
 	JButton Btn_start = new JButton("start");
 
 	public Gui() {
@@ -36,14 +36,26 @@ public class Gui extends JFrame implements ActionListener {
 					System.out.println("抓取结束");
 					return;
 				}
+//				if(DaoTools.CheckInfo(seed))
+//				{
+//					continue;
+//				}
 				String UserFollowsUri = "http://www.zhihu.com/people/" + seed
 						+ "/followees";
 				pageString = MainThread.GetUserFollow(UserFollowsUri);
 				User user=MainThread.GetUserInfo(pageString, seed);
+				System.out.println(user.toString());
 				if(DaoTools.InsertUserInfo(user))
 				{
-					System.out.println("插入成功");
+					System.out.println(seed+"insert info success...");
 				}
+				MainThread.InsertUserCache(pageString);
+				String UserFollowersUri = "http://www.zhihu.com/people/" + seed
+						+ "/followers";
+				String pageString2="";
+				pageString2=MainThread.GetUserFollow(UserFollowersUri);
+				MainThread.InsertUserCache(pageString2);
+				MainThread.GeTFolloweesList(user.getFollowees(), user.getFollowers(), user.getHash_id(), user.getId());
 				//将的到的网址写入text文件，以便测试正则表达式
 				//MainThread.fileWriter(pageString);
 				//System.out.println(pageString);
