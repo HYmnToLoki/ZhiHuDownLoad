@@ -6,15 +6,15 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <meta name="renderer" content="webkit" />
 
-<title>Kiki 关注的人 - 知乎</title>
+<title>Kiki 的关注者 - 知乎</title>
 
 <meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://people/zhang-kiki-30">
 
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/zhang-kiki-30/followees">
-<meta id="znonce" name="znonce" content="978922ec1d204714b1172e5c35474026">
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/zhang-kiki-30/followers">
+<meta id="znonce" name="znonce" content="24f37344e2bb42ca959d9dd685ba195e">
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
@@ -679,37 +679,38 @@ href="/people/zhang-kiki-30/logs">
 </div>
 
 
-<div class="zm-profile-section-wrap zm-profile-followee-page">
+<div class="zm-profile-section-wrap">
 <div class="zm-profile-section-head">
-<span class="zm-profile-section-name"><a href="/people/zhang-kiki-30">Kiki</a> 关注了 102 人</span>
+<span class="zm-profile-section-name"><a href="/people/zhang-kiki-30">Kiki</a> 被 78 人关注</span>
 <a class="zg-right zg-link-litblue-normal zm-profile-answer-page-return" href="/people/zhang-kiki-30">返回个人主页</a>
+
 </div>
 <div class="zm-profile-section-list">
 <div id="zh-profile-follows-list">
-<div class="zh-general-list clearfix" data-init="{&quot;params&quot;: {&quot;offset&quot;: 0, &quot;order_by&quot;: &quot;created&quot;, &quot;hash_id&quot;: &quot;00841a8ef77cffe40660c5fb6937cc38&quot;}, &quot;nodename&quot;: &quot;ProfileFolloweesListV2&quot;}">
+<div class="zh-general-list clearfix" data-init="{&quot;params&quot;: {&quot;offset&quot;: 0, &quot;order_by&quot;: &quot;created&quot;, &quot;hash_id&quot;: &quot;00841a8ef77cffe40660c5fb6937cc38&quot;}, &quot;nodename&quot;: &quot;ProfileFollowersListV2&quot;}">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="043ff01e5d03c529c268d50f388012c2" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="ef9feaa1c04aaf3cf7a6be4f1edfbc7d" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注她</button>
 </div>
-<a title="李开复"
-data-tip="p$t$kaifulee"
+<a title="我是比茄多耳"
+data-tip="p$t$wo-shi-bi-qie-duo-er"
 class="zm-item-link-avatar"
-href="/people/kaifulee">
-<img src="http://pic1.zhimg.com/c104d6f24_m.jpg" class="zm-item-img-avatar">
+href="/people/wo-shi-bi-qie-duo-er">
+<img src="http://pic2.zhimg.com/c4802653562a75e720859ba69baa7a15_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$kaifulee" href="http://www.zhihu.com/people/kaifulee" class="zg-link" title="李开复">李开复</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$wo-shi-bi-qie-duo-er" href="http://www.zhihu.com/people/wo-shi-bi-qie-duo-er" class="zg-link" title="我是比茄多耳">我是比茄多耳</a></h2>
 
-<div class="zg-big-gray">创新工场CEO</div>
+<div class="zg-big-gray">我这个人很复杂，一句话介绍不清。</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/kaifulee/followers" class="zg-link-gray-normal">893687 关注者</a>
+<a target="_blank" href="/people/wo-shi-bi-qie-duo-er/followers" class="zg-link-gray-normal">348 关注者</a>
 /
-<a target="_blank" href="/people/kaifulee/asks" class="zg-link-gray-normal">6 提问</a>
+<a target="_blank" href="/people/wo-shi-bi-qie-duo-er/asks" class="zg-link-gray-normal">7 提问</a>
 /
-<a target="_blank" href="/people/kaifulee/answers" class="zg-link-gray-normal">104 回答</a>
+<a target="_blank" href="/people/wo-shi-bi-qie-duo-er/answers" class="zg-link-gray-normal">162 回答</a>
 /
-<a target="_blank" href="/people/kaifulee" class="zg-link-gray-normal">60079 赞同</a>
+<a target="_blank" href="/people/wo-shi-bi-qie-duo-er" class="zg-link-gray-normal">2222 赞同</a>
 </div>
 
 </div>
@@ -717,107 +718,26 @@ href="/people/kaifulee">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="090232bba6f50d6da528fb9d2e200969" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="2a4aeaf4186cff360f58f7e5fd8d0215" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注她</button>
 </div>
-<a title="Fadeoc Khaos"
-data-tip="p$t$fadeoc"
+<a title="孙小萌"
+data-tip="p$t$sun-xiao-meng-29"
 class="zm-item-link-avatar"
-href="/people/fadeoc">
-<img src="http://pic1.zhimg.com/759108810ee2b4b5c8557b02d11621a8_m.jpg" class="zm-item-img-avatar">
-</a>
-<div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$fadeoc" href="http://www.zhihu.com/people/fadeoc" class="zg-link" title="Fadeoc Khaos">Fadeoc Khaos</a></h2>
-
-<div class="zg-big-gray">You can call me F。</div>
-<div class="details zg-gray">
-<a target="_blank" href="/people/fadeoc/followers" class="zg-link-gray-normal">1740 关注者</a>
-/
-<a target="_blank" href="/people/fadeoc/asks" class="zg-link-gray-normal">43 提问</a>
-/
-<a target="_blank" href="/people/fadeoc/answers" class="zg-link-gray-normal">375 回答</a>
-/
-<a target="_blank" href="/people/fadeoc" class="zg-link-gray-normal">12034 赞同</a>
-</div>
-
-</div>
-</div>
-
-<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
-<div class="zg-right">
-<button data-follow="m:button" data-id="50e0b6e3fcfc13857bfd3c10b3d12c95" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
-</div>
-<a title="英俊的陈双獒"
-data-tip="p$t$dualmastiffdechen"
-class="zm-item-link-avatar"
-href="/people/dualmastiffdechen">
-<img src="http://pic3.zhimg.com/1cd17cb6a_m.jpg" class="zm-item-img-avatar">
-</a>
-<div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$dualmastiffdechen" href="http://www.zhihu.com/people/dualmastiffdechen" class="zg-link" title="英俊的陈双獒">英俊的陈双獒</a></h2>
-
-<div class="zg-big-gray">我又升级了！</div>
-<div class="details zg-gray">
-<a target="_blank" href="/people/dualmastiffdechen/followers" class="zg-link-gray-normal">12522 关注者</a>
-/
-<a target="_blank" href="/people/dualmastiffdechen/asks" class="zg-link-gray-normal">0 提问</a>
-/
-<a target="_blank" href="/people/dualmastiffdechen/answers" class="zg-link-gray-normal">224 回答</a>
-/
-<a target="_blank" href="/people/dualmastiffdechen" class="zg-link-gray-normal">56221 赞同</a>
-</div>
-
-</div>
-</div>
-
-<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
-<div class="zg-right">
-<button data-follow="m:button" data-id="c853b4d1f1159ba35cc70be3cbe13921" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
-</div>
-<a title="朋克患者"
-data-tip="p$t$peng-ke-huan-zhe"
-class="zm-item-link-avatar"
-href="/people/peng-ke-huan-zhe">
-<img src="http://pic4.zhimg.com/ab1dbc446249665c802f811e530c3fab_m.jpg" class="zm-item-img-avatar">
-</a>
-<div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$peng-ke-huan-zhe" href="http://www.zhihu.com/people/peng-ke-huan-zhe" class="zg-link" title="朋克患者">朋克患者</a></h2>
-
-<div class="zg-big-gray">我也朋克过！</div>
-<div class="details zg-gray">
-<a target="_blank" href="/people/peng-ke-huan-zhe/followers" class="zg-link-gray-normal">250 关注者</a>
-/
-<a target="_blank" href="/people/peng-ke-huan-zhe/asks" class="zg-link-gray-normal">0 提问</a>
-/
-<a target="_blank" href="/people/peng-ke-huan-zhe/answers" class="zg-link-gray-normal">10 回答</a>
-/
-<a target="_blank" href="/people/peng-ke-huan-zhe" class="zg-link-gray-normal">2260 赞同</a>
-</div>
-
-</div>
-</div>
-
-<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
-<div class="zg-right">
-<button data-follow="m:button" data-id="78e3b98074a915b222ae1be4ab038a6e" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
-</div>
-<a title="赵劼"
-data-tip="p$t$jeffz"
-class="zm-item-link-avatar"
-href="/people/jeffz">
+href="/people/sun-xiao-meng-29">
 <img src="http://pic1.zhimg.com/da8e974dc_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$jeffz" href="http://www.zhihu.com/people/jeffz" class="zg-link" title="赵劼">赵劼</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$sun-xiao-meng-29" href="http://www.zhihu.com/people/sun-xiao-meng-29" class="zg-link" title="孙小萌">孙小萌</a></h2>
 
-<div class="zg-big-gray">知乎“温赵轮”三大软狗之一。</div>
+<div class="zg-big-gray"></div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/jeffz/followers" class="zg-link-gray-normal">72458 关注者</a>
+<a target="_blank" href="/people/sun-xiao-meng-29/followers" class="zg-link-gray-normal">2 关注者</a>
 /
-<a target="_blank" href="/people/jeffz/asks" class="zg-link-gray-normal">9 提问</a>
+<a target="_blank" href="/people/sun-xiao-meng-29/asks" class="zg-link-gray-normal">0 提问</a>
 /
-<a target="_blank" href="/people/jeffz/answers" class="zg-link-gray-normal">1081 回答</a>
+<a target="_blank" href="/people/sun-xiao-meng-29/answers" class="zg-link-gray-normal">1 回答</a>
 /
-<a target="_blank" href="/people/jeffz" class="zg-link-gray-normal">74339 赞同</a>
+<a target="_blank" href="/people/sun-xiao-meng-29" class="zg-link-gray-normal">0 赞同</a>
 </div>
 
 </div>
@@ -825,26 +745,26 @@ href="/people/jeffz">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="ebd95bca61f4aaed185d5f5366630719" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="d3124ad60a0e61537650a055c8210068" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
 </div>
-<a title="刘鑫"
-data-tip="p$t$marsliu"
+<a title="龚先生"
+data-tip="p$t$yue-han-wen-che-si-te"
 class="zm-item-link-avatar"
-href="/people/marsliu">
-<img src="http://pic2.zhimg.com/54293e429_m.jpg" class="zm-item-img-avatar">
+href="/people/yue-han-wen-che-si-te">
+<img src="http://pic3.zhimg.com/299ac27f7aa1428430a2915e2b5b8d76_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$marsliu" href="http://www.zhihu.com/people/marsliu" class="zg-link" title="刘鑫">刘鑫</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$yue-han-wen-che-si-te" href="http://www.zhihu.com/people/yue-han-wen-che-si-te" class="zg-link" title="龚先生">龚先生</a></h2>
 
-<div class="zg-big-gray">程序员</div>
+<div class="zg-big-gray">食品行业从业者，热衷撕逼</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/marsliu/followers" class="zg-link-gray-normal">13802 关注者</a>
+<a target="_blank" href="/people/yue-han-wen-che-si-te/followers" class="zg-link-gray-normal">22 关注者</a>
 /
-<a target="_blank" href="/people/marsliu/asks" class="zg-link-gray-normal">1 提问</a>
+<a target="_blank" href="/people/yue-han-wen-che-si-te/asks" class="zg-link-gray-normal">1 提问</a>
 /
-<a target="_blank" href="/people/marsliu/answers" class="zg-link-gray-normal">1062 回答</a>
+<a target="_blank" href="/people/yue-han-wen-che-si-te/answers" class="zg-link-gray-normal">31 回答</a>
 /
-<a target="_blank" href="/people/marsliu" class="zg-link-gray-normal">30325 赞同</a>
+<a target="_blank" href="/people/yue-han-wen-che-si-te" class="zg-link-gray-normal">20 赞同</a>
 </div>
 
 </div>
@@ -852,26 +772,26 @@ href="/people/marsliu">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="3212f9044005e9306aab1b61e74e7ae6" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="eb03be66ba7dd45ab877a5c597cc2cd6" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
 </div>
-<a title="张云龙"
-data-tip="p$t$fouber"
+<a title="蔯Lumia哦"
+data-tip="p$t$chenlumin"
 class="zm-item-link-avatar"
-href="/people/fouber">
-<img src="http://pic1.zhimg.com/ecfeb2b0c_m.jpg" class="zm-item-img-avatar">
+href="/people/chenlumin">
+<img src="http://pic1.zhimg.com/b9d6ddb0f0563dff73c4fe9cc3866c58_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$fouber" href="http://www.zhihu.com/people/fouber" class="zg-link" title="张云龙">张云龙</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$chenlumin" href="http://www.zhihu.com/people/chenlumin" class="zg-link" title="蔯Lumia哦">蔯Lumia哦</a></h2>
 
-<div class="zg-big-gray">前端工程师</div>
+<div class="zg-big-gray"></div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/fouber/followers" class="zg-link-gray-normal">6030 关注者</a>
+<a target="_blank" href="/people/chenlumin/followers" class="zg-link-gray-normal">42 关注者</a>
 /
-<a target="_blank" href="/people/fouber/asks" class="zg-link-gray-normal">1 提问</a>
+<a target="_blank" href="/people/chenlumin/asks" class="zg-link-gray-normal">0 提问</a>
 /
-<a target="_blank" href="/people/fouber/answers" class="zg-link-gray-normal">39 回答</a>
+<a target="_blank" href="/people/chenlumin/answers" class="zg-link-gray-normal">0 回答</a>
 /
-<a target="_blank" href="/people/fouber" class="zg-link-gray-normal">8971 赞同</a>
+<a target="_blank" href="/people/chenlumin" class="zg-link-gray-normal">0 赞同</a>
 </div>
 
 </div>
@@ -879,26 +799,26 @@ href="/people/fouber">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="f12cbd90596b9b044a6973ac43daf6ba" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="f904338fb0aefccfa9dd7b51d51452df" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
 </div>
-<a title="Yimian Dai"
-data-tip="p$t$daiyimian"
+<a title="Djun"
+data-tip="p$t$dong-jun-50-91"
 class="zm-item-link-avatar"
-href="/people/daiyimian">
-<img src="http://pic2.zhimg.com/eed47d781_m.jpg" class="zm-item-img-avatar">
+href="/people/dong-jun-50-91">
+<img src="http://pic3.zhimg.com/b3ec7dc956de8b523ef10eb969f88dea_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$daiyimian" href="http://www.zhihu.com/people/daiyimian" class="zg-link" title="Yimian Dai">Yimian Dai</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$dong-jun-50-91" href="http://www.zhihu.com/people/dong-jun-50-91" class="zg-link" title="Djun">Djun</a></h2>
 
-<div class="zg-big-gray">http://dym.mobi</div>
+<div class="zg-big-gray">求前端、JAVA开发实习岗</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/daiyimian/followers" class="zg-link-gray-normal">403 关注者</a>
+<a target="_blank" href="/people/dong-jun-50-91/followers" class="zg-link-gray-normal">25 关注者</a>
 /
-<a target="_blank" href="/people/daiyimian/asks" class="zg-link-gray-normal">31 提问</a>
+<a target="_blank" href="/people/dong-jun-50-91/asks" class="zg-link-gray-normal">1 提问</a>
 /
-<a target="_blank" href="/people/daiyimian/answers" class="zg-link-gray-normal">30 回答</a>
+<a target="_blank" href="/people/dong-jun-50-91/answers" class="zg-link-gray-normal">1 回答</a>
 /
-<a target="_blank" href="/people/daiyimian" class="zg-link-gray-normal">317 赞同</a>
+<a target="_blank" href="/people/dong-jun-50-91" class="zg-link-gray-normal">0 赞同</a>
 </div>
 
 </div>
@@ -906,26 +826,26 @@ href="/people/daiyimian">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="fd7c571a0ada1a72e42e8d7992c4a780" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="7a4da90289229e264a28360553e09c67" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注她</button>
 </div>
-<a title="萧井陌"
-data-tip="p$t$xiao-jing-mo"
+<a title="候鸟"
+data-tip="p$t$hou-niao-60-29"
 class="zm-item-link-avatar"
-href="/people/xiao-jing-mo">
-<img src="http://pic2.zhimg.com/a51c0bd3a575d9e339f9a3e291a06015_m.jpg" class="zm-item-img-avatar">
+href="/people/hou-niao-60-29">
+<img src="http://pic2.zhimg.com/3c7a1e95c2c41db68a6e53ebe3e0a14d_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$xiao-jing-mo" href="http://www.zhihu.com/people/xiao-jing-mo" class="zg-link" title="萧井陌">萧井陌</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$hou-niao-60-29" href="http://www.zhihu.com/people/hou-niao-60-29" class="zg-link" title="候鸟">候鸟</a></h2>
 
-<div class="zg-big-gray">???★★★★★</div>
+<div class="zg-big-gray">努力变聪明的程序媛</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/xiao-jing-mo/followers" class="zg-link-gray-normal">31594 关注者</a>
+<a target="_blank" href="/people/hou-niao-60-29/followers" class="zg-link-gray-normal">28 关注者</a>
 /
-<a target="_blank" href="/people/xiao-jing-mo/asks" class="zg-link-gray-normal">25 提问</a>
+<a target="_blank" href="/people/hou-niao-60-29/asks" class="zg-link-gray-normal">2 提问</a>
 /
-<a target="_blank" href="/people/xiao-jing-mo/answers" class="zg-link-gray-normal">1647 回答</a>
+<a target="_blank" href="/people/hou-niao-60-29/answers" class="zg-link-gray-normal">11 回答</a>
 /
-<a target="_blank" href="/people/xiao-jing-mo" class="zg-link-gray-normal">62241 赞同</a>
+<a target="_blank" href="/people/hou-niao-60-29" class="zg-link-gray-normal">9 赞同</a>
 </div>
 
 </div>
@@ -933,161 +853,26 @@ href="/people/xiao-jing-mo">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="b99ce653ede1b8409b2860f36226e04a" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="b923320edeec13a9974da8c690613207" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
 </div>
-<a title="苏格"
-data-tip="p$t$su-ge-7-64"
+<a title="崔慧玲"
+data-tip="p$t$cui-hui-ling-55"
 class="zm-item-link-avatar"
-href="/people/su-ge-7-64">
-<img src="http://pic4.zhimg.com/58011d127409a6b082ed6f2cd73c6c23_m.jpg" class="zm-item-img-avatar">
-</a>
-<div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$su-ge-7-64" href="http://www.zhihu.com/people/su-ge-7-64" class="zg-link" title="苏格">苏格</a></h2>
-
-<div class="zg-big-gray">我是学生</div>
-<div class="details zg-gray">
-<a target="_blank" href="/people/su-ge-7-64/followers" class="zg-link-gray-normal">1735 关注者</a>
-/
-<a target="_blank" href="/people/su-ge-7-64/asks" class="zg-link-gray-normal">5 提问</a>
-/
-<a target="_blank" href="/people/su-ge-7-64/answers" class="zg-link-gray-normal">22 回答</a>
-/
-<a target="_blank" href="/people/su-ge-7-64" class="zg-link-gray-normal">8225 赞同</a>
-</div>
-
-</div>
-</div>
-
-<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
-<div class="zg-right">
-<button data-follow="m:button" data-id="f89f3aef5f3d8af8972f99992ca77779" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
-</div>
-<a title="Chen Michael"
-data-tip="p$t$chen-michael-42"
-class="zm-item-link-avatar"
-href="/people/chen-michael-42">
-<img src="http://pic2.zhimg.com/c8c3bf31ec6a6f6ec6ebea3541e52829_m.jpg" class="zm-item-img-avatar">
-</a>
-<div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$chen-michael-42" href="http://www.zhihu.com/people/chen-michael-42" class="zg-link" title="Chen Michael">Chen Michael</a></h2>
-
-<div class="zg-big-gray">WnMStudio游戏制作人</div>
-<div class="details zg-gray">
-<a target="_blank" href="/people/chen-michael-42/followers" class="zg-link-gray-normal">541 关注者</a>
-/
-<a target="_blank" href="/people/chen-michael-42/asks" class="zg-link-gray-normal">2 提问</a>
-/
-<a target="_blank" href="/people/chen-michael-42/answers" class="zg-link-gray-normal">126 回答</a>
-/
-<a target="_blank" href="/people/chen-michael-42" class="zg-link-gray-normal">1528 赞同</a>
-</div>
-
-</div>
-</div>
-
-<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
-<div class="zg-right">
-<button data-follow="m:button" data-id="0c8e01c6e304c4be6e4c923943bb2d03" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
-</div>
-<a title="雷幺幺"
-data-tip="p$t$YSGG"
-class="zm-item-link-avatar"
-href="/people/YSGG">
-<img src="http://pic1.zhimg.com/b729297c0_m.jpg" class="zm-item-img-avatar">
-</a>
-<div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$YSGG" href="http://www.zhihu.com/people/YSGG" class="zg-link" title="雷幺幺">雷幺幺</a></h2>
-
-<div class="zg-big-gray">混广告界的逗比，无节操不解释</div>
-<div class="details zg-gray">
-<a target="_blank" href="/people/YSGG/followers" class="zg-link-gray-normal">79124 关注者</a>
-/
-<a target="_blank" href="/people/YSGG/asks" class="zg-link-gray-normal">12 提问</a>
-/
-<a target="_blank" href="/people/YSGG/answers" class="zg-link-gray-normal">469 回答</a>
-/
-<a target="_blank" href="/people/YSGG" class="zg-link-gray-normal">160277 赞同</a>
-</div>
-
-</div>
-</div>
-
-<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
-<div class="zg-right">
-<button data-follow="m:button" data-id="1c7f429366f5db6b3cf05e2b6eaac0a9" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
-</div>
-<a title="陈萌萌"
-data-tip="p$t$chen-meng-meng-19"
-class="zm-item-link-avatar"
-href="/people/chen-meng-meng-19">
-<img src="http://pic2.zhimg.com/0a25b2a0d_m.jpg" class="zm-item-img-avatar">
-</a>
-<div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$chen-meng-meng-19" href="http://www.zhihu.com/people/chen-meng-meng-19" class="zg-link" title="陈萌萌">陈萌萌</a></h2>
-
-<div class="zg-big-gray">专业送绝望，包邮，八刀一份_(:з」∠)_</div>
-<div class="details zg-gray">
-<a target="_blank" href="/people/chen-meng-meng-19/followers" class="zg-link-gray-normal">23545 关注者</a>
-/
-<a target="_blank" href="/people/chen-meng-meng-19/asks" class="zg-link-gray-normal">2 提问</a>
-/
-<a target="_blank" href="/people/chen-meng-meng-19/answers" class="zg-link-gray-normal">98 回答</a>
-/
-<a target="_blank" href="/people/chen-meng-meng-19" class="zg-link-gray-normal">8893 赞同</a>
-</div>
-
-</div>
-</div>
-
-<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
-<div class="zg-right">
-<button data-follow="m:button" data-id="ef11bdf1550a10c6a23036599f2e82ff" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
-</div>
-<a title="廖彬"
-data-tip="p$t$liao-bin-buddy"
-class="zm-item-link-avatar"
-href="/people/liao-bin-buddy">
-<img src="http://pic4.zhimg.com/cf6492ea6ce2b7d8c90c17e5e2b2fbab_m.jpg" class="zm-item-img-avatar">
-</a>
-<div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$liao-bin-buddy" href="http://www.zhihu.com/people/liao-bin-buddy" class="zg-link" title="廖彬">廖彬</a></h2>
-
-<div class="zg-big-gray">A PhD who does research in JVM &amp; GC</div>
-<div class="details zg-gray">
-<a target="_blank" href="/people/liao-bin-buddy/followers" class="zg-link-gray-normal">641 关注者</a>
-/
-<a target="_blank" href="/people/liao-bin-buddy/asks" class="zg-link-gray-normal">3 提问</a>
-/
-<a target="_blank" href="/people/liao-bin-buddy/answers" class="zg-link-gray-normal">16 回答</a>
-/
-<a target="_blank" href="/people/liao-bin-buddy" class="zg-link-gray-normal">342 赞同</a>
-</div>
-
-</div>
-</div>
-
-<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
-<div class="zg-right">
-<button data-follow="m:button" data-id="3b7348a610ed1aec4f8c749b93d5cae5" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
-</div>
-<a title="Alan Li"
-data-tip="p$t$alan.li"
-class="zm-item-link-avatar"
-href="/people/alan.li">
+href="/people/cui-hui-ling-55">
 <img src="http://pic1.zhimg.com/da8e974dc_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$alan.li" href="http://www.zhihu.com/people/alan.li" class="zg-link" title="Alan Li">Alan Li</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$cui-hui-ling-55" href="http://www.zhihu.com/people/cui-hui-ling-55" class="zg-link" title="崔慧玲">崔慧玲</a></h2>
 
-<div class="zg-big-gray">JIT Compiler Optimization Developer, CUDA/OpenCL evangelist.</div>
+<div class="zg-big-gray">Richard Feynman + Xwave=Richwave</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/alan.li/followers" class="zg-link-gray-normal">882 关注者</a>
+<a target="_blank" href="/people/cui-hui-ling-55/followers" class="zg-link-gray-normal">3 关注者</a>
 /
-<a target="_blank" href="/people/alan.li/asks" class="zg-link-gray-normal">1 提问</a>
+<a target="_blank" href="/people/cui-hui-ling-55/asks" class="zg-link-gray-normal">0 提问</a>
 /
-<a target="_blank" href="/people/alan.li/answers" class="zg-link-gray-normal">66 回答</a>
+<a target="_blank" href="/people/cui-hui-ling-55/answers" class="zg-link-gray-normal">2 回答</a>
 /
-<a target="_blank" href="/people/alan.li" class="zg-link-gray-normal">514 赞同</a>
+<a target="_blank" href="/people/cui-hui-ling-55" class="zg-link-gray-normal">1 赞同</a>
 </div>
 
 </div>
@@ -1095,26 +880,26 @@ href="/people/alan.li">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="55541691adc7393b62f12e351fd96910" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="1ce17e41e549fc22118a1ae6609f8032" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
 </div>
-<a title="代码豆"
-data-tip="p$t$dai-ma-dou"
+<a title="花开花败"
+data-tip="p$t$huakaihuabai"
 class="zm-item-link-avatar"
-href="/people/dai-ma-dou">
-<img src="http://pic4.zhimg.com/7bed3a33f_m.jpg" class="zm-item-img-avatar">
+href="/people/huakaihuabai">
+<img src="http://pic1.zhimg.com/da8e974dc_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$dai-ma-dou" href="http://www.zhihu.com/people/dai-ma-dou" class="zg-link" title="代码豆">代码豆</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$huakaihuabai" href="http://www.zhihu.com/people/huakaihuabai" class="zg-link" title="花开花败">花开花败</a></h2>
 
-<div class="zg-big-gray">debug debugger everyday...</div>
+<div class="zg-big-gray">IT</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/dai-ma-dou/followers" class="zg-link-gray-normal">1496 关注者</a>
+<a target="_blank" href="/people/huakaihuabai/followers" class="zg-link-gray-normal">14 关注者</a>
 /
-<a target="_blank" href="/people/dai-ma-dou/asks" class="zg-link-gray-normal">2 提问</a>
+<a target="_blank" href="/people/huakaihuabai/asks" class="zg-link-gray-normal">3 提问</a>
 /
-<a target="_blank" href="/people/dai-ma-dou/answers" class="zg-link-gray-normal">57 回答</a>
+<a target="_blank" href="/people/huakaihuabai/answers" class="zg-link-gray-normal">1 回答</a>
 /
-<a target="_blank" href="/people/dai-ma-dou" class="zg-link-gray-normal">872 赞同</a>
+<a target="_blank" href="/people/huakaihuabai" class="zg-link-gray-normal">0 赞同</a>
 </div>
 
 </div>
@@ -1122,26 +907,26 @@ href="/people/dai-ma-dou">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="98dda706d62552f94e91341715e2ab61" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="ac3541ff3a725b5e5461aa7a35937751" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
 </div>
-<a title="Moemoe Li"
-data-tip="p$t$moemoeli"
+<a title="莫名尘缘"
+data-tip="p$t$mo-ming-chen-yuan"
 class="zm-item-link-avatar"
-href="/people/moemoeli">
-<img src="http://pic3.zhimg.com/b3e134b9a16766f46d3672682ba499ee_m.jpg" class="zm-item-img-avatar">
+href="/people/mo-ming-chen-yuan">
+<img src="http://pic1.zhimg.com/be56c5d7ee3e8a8f09b3dad9f3ce68f8_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$moemoeli" href="http://www.zhihu.com/people/moemoeli" class="zg-link" title="Moemoe Li">Moemoe Li</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$mo-ming-chen-yuan" href="http://www.zhihu.com/people/mo-ming-chen-yuan" class="zg-link" title="莫名尘缘">莫名尘缘</a></h2>
 
-<div class="zg-big-gray">不是魔法少女是魔法师</div>
+<div class="zg-big-gray"></div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/moemoeli/followers" class="zg-link-gray-normal">15947 关注者</a>
+<a target="_blank" href="/people/mo-ming-chen-yuan/followers" class="zg-link-gray-normal">6 关注者</a>
 /
-<a target="_blank" href="/people/moemoeli/asks" class="zg-link-gray-normal">54 提问</a>
+<a target="_blank" href="/people/mo-ming-chen-yuan/asks" class="zg-link-gray-normal">0 提问</a>
 /
-<a target="_blank" href="/people/moemoeli/answers" class="zg-link-gray-normal">266 回答</a>
+<a target="_blank" href="/people/mo-ming-chen-yuan/answers" class="zg-link-gray-normal">0 回答</a>
 /
-<a target="_blank" href="/people/moemoeli" class="zg-link-gray-normal">9927 赞同</a>
+<a target="_blank" href="/people/mo-ming-chen-yuan" class="zg-link-gray-normal">0 赞同</a>
 </div>
 
 </div>
@@ -1149,26 +934,26 @@ href="/people/moemoeli">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="146b3c0667f4451b9f3d712fa4009b7a" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="73a0c26f9cd34f7560ed7854c4f987c1" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
 </div>
-<a title="Lily Kim"
-data-tip="p$t$pinknoir"
+<a title="江城雨"
+data-tip="p$t$nirviaje"
 class="zm-item-link-avatar"
-href="/people/pinknoir">
-<img src="http://pic3.zhimg.com/79eafa86e0472801fe9fcf2805091502_m.jpg" class="zm-item-img-avatar">
+href="/people/nirviaje">
+<img src="http://pic1.zhimg.com/c21495fe8_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$pinknoir" href="http://www.zhihu.com/people/pinknoir" class="zg-link" title="Lily Kim">Lily Kim</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$nirviaje" href="http://www.zhihu.com/people/nirviaje" class="zg-link" title="江城雨">江城雨</a></h2>
 
-<div class="zg-big-gray">新浪：Lily在学什么</div>
+<div class="zg-big-gray">Math, Circuit, Learning, Complex System, Cycling, Piano.  http://www.douban.com/people/nirviaje/</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/pinknoir/followers" class="zg-link-gray-normal">13157 关注者</a>
+<a target="_blank" href="/people/nirviaje/followers" class="zg-link-gray-normal">97 关注者</a>
 /
-<a target="_blank" href="/people/pinknoir/asks" class="zg-link-gray-normal">6 提问</a>
+<a target="_blank" href="/people/nirviaje/asks" class="zg-link-gray-normal">3 提问</a>
 /
-<a target="_blank" href="/people/pinknoir/answers" class="zg-link-gray-normal">35 回答</a>
+<a target="_blank" href="/people/nirviaje/answers" class="zg-link-gray-normal">49 回答</a>
 /
-<a target="_blank" href="/people/pinknoir" class="zg-link-gray-normal">15124 赞同</a>
+<a target="_blank" href="/people/nirviaje" class="zg-link-gray-normal">31 赞同</a>
 </div>
 
 </div>
@@ -1176,26 +961,26 @@ href="/people/pinknoir">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="b35db0fa58aaaf00c1b7a2ebad55e91c" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="74d744367f069bb0204145c3a2e24293" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
 </div>
-<a title="波西婭Portia"
-data-tip="p$t$PortiaC"
+<a title="刘威"
+data-tip="p$t$liuweigeek"
 class="zm-item-link-avatar"
-href="/people/PortiaC">
-<img src="http://pic3.zhimg.com/2f6e89d5d9bb2fc6c8b453d228cc1252_m.jpg" class="zm-item-img-avatar">
+href="/people/liuweigeek">
+<img src="http://pic2.zhimg.com/7f1691d970de750849ee6741593b3625_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$PortiaC" href="http://www.zhihu.com/people/PortiaC" class="zg-link" title="波西婭Portia">波西婭Portia</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$liuweigeek" href="http://www.zhihu.com/people/liuweigeek" class="zg-link" title="刘威">刘威</a></h2>
 
-<div class="zg-big-gray">自我洗涤</div>
+<div class="zg-big-gray">编程</div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/PortiaC/followers" class="zg-link-gray-normal">40640 关注者</a>
+<a target="_blank" href="/people/liuweigeek/followers" class="zg-link-gray-normal">7 关注者</a>
 /
-<a target="_blank" href="/people/PortiaC/asks" class="zg-link-gray-normal">34 提问</a>
+<a target="_blank" href="/people/liuweigeek/asks" class="zg-link-gray-normal">9 提问</a>
 /
-<a target="_blank" href="/people/PortiaC/answers" class="zg-link-gray-normal">80 回答</a>
+<a target="_blank" href="/people/liuweigeek/answers" class="zg-link-gray-normal">2 回答</a>
 /
-<a target="_blank" href="/people/PortiaC" class="zg-link-gray-normal">45112 赞同</a>
+<a target="_blank" href="/people/liuweigeek" class="zg-link-gray-normal">2 赞同</a>
 </div>
 
 </div>
@@ -1203,26 +988,242 @@ href="/people/PortiaC">
 
 <div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
 <div class="zg-right">
-<button data-follow="m:button" data-id="dd22fc61d58a3f55634d4beb4397f8cf" class="zg-btn zg-btn-unfollow zm-rich-follow-btn small nth-0">取消关注</button>
+<button data-follow="m:button" data-id="14dfb3b95ea5501f2f6d106494219223" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
 </div>
-<a title="石悦"
-data-tip="p$t$looli23"
+<a title="blueguy"
+data-tip="p$t$blueguy"
 class="zm-item-link-avatar"
-href="/people/looli23">
-<img src="http://pic4.zhimg.com/45801dd3de8a2dbdb2ce89c735eab29b_m.jpg" class="zm-item-img-avatar">
+href="/people/blueguy">
+<img src="http://pic4.zhimg.com/00cbad85fc5077d490e1d7cea8b73363_m.jpg" class="zm-item-img-avatar">
 </a>
 <div class="zm-list-content-medium">
-<h2 class="zm-list-content-title"><a data-tip="p$t$looli23" href="http://www.zhihu.com/people/looli23" class="zg-link" title="石悦">石悦</a></h2>
+<h2 class="zm-list-content-title"><a data-tip="p$t$blueguy" href="http://www.zhihu.com/people/blueguy" class="zg-link" title="blueguy">blueguy</a></h2>
 
-<div class="zg-big-gray">以色列</div>
+<div class="zg-big-gray"></div>
 <div class="details zg-gray">
-<a target="_blank" href="/people/looli23/followers" class="zg-link-gray-normal">10824 关注者</a>
+<a target="_blank" href="/people/blueguy/followers" class="zg-link-gray-normal">0 关注者</a>
 /
-<a target="_blank" href="/people/looli23/asks" class="zg-link-gray-normal">4 提问</a>
+<a target="_blank" href="/people/blueguy/asks" class="zg-link-gray-normal">0 提问</a>
 /
-<a target="_blank" href="/people/looli23/answers" class="zg-link-gray-normal">103 回答</a>
+<a target="_blank" href="/people/blueguy/answers" class="zg-link-gray-normal">1 回答</a>
 /
-<a target="_blank" href="/people/looli23" class="zg-link-gray-normal">7218 赞同</a>
+<a target="_blank" href="/people/blueguy" class="zg-link-gray-normal">0 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="01c03d027f2c5e264ad2e0440dccec09" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="Xavier"
+data-tip="p$t$ChiangDi"
+class="zm-item-link-avatar"
+href="/people/ChiangDi">
+<img src="http://pic1.zhimg.com/569aaaefc_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$ChiangDi" href="http://www.zhihu.com/people/ChiangDi" class="zg-link" title="Xavier">Xavier</a></h2>
+
+<div class="zg-big-gray">学生，不专业，尽量不答题</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/ChiangDi/followers" class="zg-link-gray-normal">33 关注者</a>
+/
+<a target="_blank" href="/people/ChiangDi/asks" class="zg-link-gray-normal">3 提问</a>
+/
+<a target="_blank" href="/people/ChiangDi/answers" class="zg-link-gray-normal">4 回答</a>
+/
+<a target="_blank" href="/people/ChiangDi" class="zg-link-gray-normal">42 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="efbb23660592a5956132bcbf3140305b" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="hong yu jiang"
+data-tip="p$t$wang-san-cai"
+class="zm-item-link-avatar"
+href="/people/wang-san-cai">
+<img src="http://pic2.zhimg.com/9ef1695c76243f2962e835d9c59b29bd_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$wang-san-cai" href="http://www.zhihu.com/people/wang-san-cai" class="zg-link" title="hong yu jiang">hong yu jiang</a></h2>
+
+<div class="zg-big-gray"></div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/wang-san-cai/followers" class="zg-link-gray-normal">19 关注者</a>
+/
+<a target="_blank" href="/people/wang-san-cai/asks" class="zg-link-gray-normal">1 提问</a>
+/
+<a target="_blank" href="/people/wang-san-cai/answers" class="zg-link-gray-normal">2 回答</a>
+/
+<a target="_blank" href="/people/wang-san-cai" class="zg-link-gray-normal">1 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="cb821c5cdb73de148e72ae1427302210" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="laneo"
+data-tip="p$t$katebook.com"
+class="zm-item-link-avatar"
+href="/people/katebook.com">
+<img src="http://pic4.zhimg.com/f45b19e1dd82a19d3783c33222d81e07_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$katebook.com" href="http://www.zhihu.com/people/katebook.com" class="zg-link" title="laneo">laneo</a></h2>
+
+<div class="zg-big-gray">颜值忽高忽低，情商忽高忽低，奔在22岁的路上~</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/katebook.com/followers" class="zg-link-gray-normal">55 关注者</a>
+/
+<a target="_blank" href="/people/katebook.com/asks" class="zg-link-gray-normal">3 提问</a>
+/
+<a target="_blank" href="/people/katebook.com/answers" class="zg-link-gray-normal">49 回答</a>
+/
+<a target="_blank" href="/people/katebook.com" class="zg-link-gray-normal">18 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="8d4d67a7ee31e0a71f2e3805896fa46b" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="卓灵"
+data-tip="p$t$pken"
+class="zm-item-link-avatar"
+href="/people/pken">
+<img src="http://pic4.zhimg.com/ce34923d3_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$pken" href="http://www.zhihu.com/people/pken" class="zg-link" title="卓灵">卓灵</a></h2>
+
+<div class="zg-big-gray">代码，数据，计算机，编译；</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/pken/followers" class="zg-link-gray-normal">11 关注者</a>
+/
+<a target="_blank" href="/people/pken/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/pken/answers" class="zg-link-gray-normal">2 回答</a>
+/
+<a target="_blank" href="/people/pken" class="zg-link-gray-normal">1 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="4102d02aef276046ef9e9046f47e4f4e" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="一九九三"
+data-tip="p$t$yijiu-jiu-san"
+class="zm-item-link-avatar"
+href="/people/yijiu-jiu-san">
+<img src="http://pic4.zhimg.com/c3fd1a361761f0f5bec87949be69d9ff_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$yijiu-jiu-san" href="http://www.zhihu.com/people/yijiu-jiu-san" class="zg-link" title="一九九三">一九九三</a></h2>
+
+<div class="zg-big-gray">大三在读本科生</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/yijiu-jiu-san/followers" class="zg-link-gray-normal">6 关注者</a>
+/
+<a target="_blank" href="/people/yijiu-jiu-san/asks" class="zg-link-gray-normal">1 提问</a>
+/
+<a target="_blank" href="/people/yijiu-jiu-san/answers" class="zg-link-gray-normal">4 回答</a>
+/
+<a target="_blank" href="/people/yijiu-jiu-san" class="zg-link-gray-normal">23 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="3219f760e5c60ed55b065e8772aa8bd5" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="yanchao gong"
+data-tip="p$t$yanchao-gong"
+class="zm-item-link-avatar"
+href="/people/yanchao-gong">
+<img src="http://pic1.zhimg.com/08add5a34_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$yanchao-gong" href="http://www.zhihu.com/people/yanchao-gong" class="zg-link" title="yanchao gong">yanchao gong</a></h2>
+
+<div class="zg-big-gray">呵呵，主要来看看别人</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/yanchao-gong/followers" class="zg-link-gray-normal">1 关注者</a>
+/
+<a target="_blank" href="/people/yanchao-gong/asks" class="zg-link-gray-normal">0 提问</a>
+/
+<a target="_blank" href="/people/yanchao-gong/answers" class="zg-link-gray-normal">3 回答</a>
+/
+<a target="_blank" href="/people/yanchao-gong" class="zg-link-gray-normal">1 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="2ec37f0eb3d2aaa92dac1337d1ad2f8f" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注他</button>
+</div>
+<a title="venice mark"
+data-tip="p$t$munihei"
+class="zm-item-link-avatar"
+href="/people/munihei">
+<img src="http://pic3.zhimg.com/b36e1e560af74e353ebb20160c70c082_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$munihei" href="http://www.zhihu.com/people/munihei" class="zg-link" title="venice mark">venice mark</a></h2>
+
+<div class="zg-big-gray">怎么一直睡不醒，zzz</div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/munihei/followers" class="zg-link-gray-normal">16 关注者</a>
+/
+<a target="_blank" href="/people/munihei/asks" class="zg-link-gray-normal">2 提问</a>
+/
+<a target="_blank" href="/people/munihei/answers" class="zg-link-gray-normal">33 回答</a>
+/
+<a target="_blank" href="/people/munihei" class="zg-link-gray-normal">41 赞同</a>
+</div>
+
+</div>
+</div>
+
+<div class="zm-profile-card zm-profile-section-item zg-clear no-hovercard">
+<div class="zg-right">
+<button data-follow="m:button" data-id="79c39837a4506450673ae4c173fd769f" class="zg-btn zg-btn-follow zm-rich-follow-btn small nth-0">关注她</button>
+</div>
+<a title="甄菲"
+data-tip="p$t$zhen-fei-fei-96"
+class="zm-item-link-avatar"
+href="/people/zhen-fei-fei-96">
+<img src="http://pic1.zhimg.com/49e09c440cf04deadb3e30bd760f2f80_m.jpg" class="zm-item-img-avatar">
+</a>
+<div class="zm-list-content-medium">
+<h2 class="zm-list-content-title"><a data-tip="p$t$zhen-fei-fei-96" href="http://www.zhihu.com/people/zhen-fei-fei-96" class="zg-link" title="甄菲">甄菲</a></h2>
+
+<div class="zg-big-gray"></div>
+<div class="details zg-gray">
+<a target="_blank" href="/people/zhen-fei-fei-96/followers" class="zg-link-gray-normal">0 关注者</a>
+/
+<a target="_blank" href="/people/zhen-fei-fei-96/asks" class="zg-link-gray-normal">2 提问</a>
+/
+<a target="_blank" href="/people/zhen-fei-fei-96/answers" class="zg-link-gray-normal">0 回答</a>
+/
+<a target="_blank" href="/people/zhen-fei-fei-96" class="zg-link-gray-normal">0 赞同</a>
 </div>
 
 </div>
@@ -1240,7 +1241,7 @@ href="/people/looli23">
 <div class="zm-profile-side-following zg-clear">
 <a class="item" href="/people/zhang-kiki-30/followees">
 <span class="zg-gray-normal">关注了</span><br />
-<strong>102</strong><label> 人</label>
+<strong>103</strong><label> 人</label>
 </a>
 <a class="item" href="/people/zhang-kiki-30/followers">
 <span class="zg-gray-normal">关注者</span><br />
@@ -1352,7 +1353,7 @@ href="/people/looli23">
 
 <div class="zm-profile-side-section">
 <div class="zm-side-section-inner">
-<span class="zg-gray-normal">个人主页被 <strong>106</strong> 人浏览</span>
+<span class="zg-gray-normal">个人主页被 <strong>107</strong> 人浏览</span>
 </div>
 </div>
 
@@ -1403,7 +1404,7 @@ href="/people/looli23">
 <script type="text/json" class="json-inline" data-name="permissions">[]</script>
 
 
-<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1388057876000,"now":1439472243000,"abtest_mask":"---------1--------------------","user_attr":[1,0,0,"-",1],"user_hash":"d00ade9168907740fcea35fa5fbc7ace"}</script>
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1388057876000,"now":1439559108000,"abtest_mask":"---------1--------------------","user_attr":[1,0,0,"-",1],"user_hash":"d00ade9168907740fcea35fa5fbc7ace"}</script>
 
 <script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
 <script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
@@ -1411,7 +1412,7 @@ href="/people/looli23">
 <script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
 <script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
 
-<script type="text/zscript" znonce="978922ec1d204714b1172e5c35474026">
+<script type="text/zscript" znonce="24f37344e2bb42ca959d9dd685ba195e">
 ZH.entryP();
 </script>
 
