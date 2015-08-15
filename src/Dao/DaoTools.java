@@ -28,7 +28,8 @@ public class DaoTools {
 				return true;
 			}
 		} catch (Exception e) {
-			e.printStackTrace();
+			//e.printStackTrace();
+			System.out.println("”–÷ÿ∏¥...");
 		}
 		finally
 		{
@@ -174,6 +175,78 @@ public class DaoTools {
 		}
 		
 		return false;
+	}
+	public static void deleteUserCache(String seed)
+	{
+		PreparedStatement preparedStatement=null;
+		Connection connection=null;
+		Statement smStatement=null;
+		ResultSet rsResultSet = null;
+		try {
+			Class.forName(driverString);
+			connection=DriverManager.getConnection(conString,"sa","123456");
+			preparedStatement=connection.prepareStatement("delete UserCache where id='"+seed+"'");
+			preparedStatement.executeUpdate();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		finally
+		{
+			try {
+				if(rsResultSet==null)
+				{
+					rsResultSet.close();
+				}
+				if(smStatement==null)
+				{
+					smStatement.close();
+				}
+				if(connection==null)
+				{
+					connection.close();
+				}
+				
+			} catch (Exception e2) {
+
+			}
+		}
+	}
+	public static String[] getSomeSeed(int number)
+	{
+		String [] seedList=new String[number];
+		int n=0;
+		Connection connection = null;
+		Statement smStatement = null;
+		ResultSet rsResultSet = null;
+		try {
+			Class.forName(driverString);
+			connection = DriverManager.getConnection(conString, "sa", "123456");
+			smStatement = connection.createStatement();
+			rsResultSet = smStatement.executeQuery("select top "+number+" * from UserCache");
+			while (rsResultSet.next()) {
+				seedList[n]=rsResultSet.getString("id");
+				DaoTools.deleteUserCache(seedList[n]);
+				n++;
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				if (rsResultSet == null) {
+					rsResultSet.close();
+				}
+				if (smStatement == null) {
+					smStatement.close();
+				}
+				if (connection == null) {
+					connection.close();
+				}
+
+			} catch (Exception e2) {
+
+			}
+		}
+		return seedList;
 	}
 	public static void main(String[] args) {
 		

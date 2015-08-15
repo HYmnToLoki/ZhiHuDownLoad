@@ -24,6 +24,7 @@ import org.apache.commons.httpclient.params.HttpMethodParams;
 
 import Been.User;
 import Dao.DaoTools;
+import MainGUI.Gui;
 
 public class MainThread {
 
@@ -68,7 +69,7 @@ public class MainThread {
 			} else {
 				InputStream content = getMethod.getResponseBodyAsStream();
 				pageString = InputStreamTOString(content, "UTF-8");
-				fileWriter(pageString);
+				//fileWriter(pageString);
 			}
 		} catch (HttpException e) {
 			// TODO Auto-generated catch block
@@ -84,17 +85,17 @@ public class MainThread {
 		return pageString;
 	}
 
-	static public void fileWriter(String source) {
-		try {
-			FileWriter fWriter = new FileWriter("text.txt");
-			fWriter.write(source);
-			fWriter.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-			System.out.println("写入文件失败");
-		}
-	}
+//	static public void fileWriter(String source) {
+//		try {
+//			FileWriter fWriter = new FileWriter("text.txt");
+//			fWriter.write(source);
+//			fWriter.close();
+//		} catch (IOException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//			System.out.println("写入文件失败");
+//		}
+//	}
 
 	/**
 	 * 将InputStream转换成某种字符编码的String
@@ -283,7 +284,7 @@ public class MainThread {
 			GetMethod getMethod = new GetMethod(uriString);
 			// 作用是什么，我也不知道
 			// 第一个应该是设置连接超时
-			getMethod.getParams().setParameter(HttpMethodParams.SO_TIMEOUT, 5000);
+			//getMethod.getParams().setParameter(HttpMethodParams.SO_TIMEOUT, 5000);
 			getMethod.getParams().setParameter(HttpMethodParams.RETRY_HANDLER,
 					new DefaultHttpMethodRetryHandler());
 			//System.out.println("_za=e152be18-1ffe-4231-a329-a4552c0efbd3; q_c1=b51f9f918815456bbed34237ea5dfca8|1438085254000|1438085254000; cap_id=\"MjM1MjI5N2MzODk1NDg2M2FjMDZhNjQ3NWZkZTQzMWE=|1438085254|3683d09865d655fd5fa4bde47aa92fb370949523\"; z_c0=\"QUFCQXFQNGlBQUFYQUFBQVlRSlZUWW45M2xVdkNzMTFsSFJudjJnWHdlQzhsQzZlYVR0XzlRPT0=|1438085257|f99e7b6edf3bd2043487071f0ea6ff11c227637a\"; _xsrf=2fd8c9059d757ce6d4770c7ea46983a1; tc=AQAAAFxnuR02twgAjLj3cPF3c9s0Lebx; __utmt=1; __utma=51854390.1379204766.1438085205.1438778718.1438859888.3; __utmb=51854390.27.9.1438862846996; __utmc=51854390; __utmz=51854390.1438085205.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmv=51854390.100-1|2=registration_date=20131226=1^3=entry_date=20131226=1".length());		
@@ -306,23 +307,25 @@ public class MainThread {
 				} else {
 					InputStream content = getMethod.getResponseBodyAsStream();
 					pageString = InputStreamTOString(content, "UTF-8");
+					System.out.println(id+"--------------------------"+nnn+":"+eenumber);
 					InsertUserCache(pageString);
-					System.out.println("解析 followees..."+nnn);
+					
+					//System.out.println("解析 followees..."+nnn);
 //					System.out.println(pageString);
 //					fileWriter(pageString);
 				}
 			} catch (HttpException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-				return;
+				continue;
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-				return ;
+				continue;
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-				return ;
+				continue;
 			}
 			nnn+=20;
 		}
@@ -372,23 +375,24 @@ public class MainThread {
 				} else {
 					InputStream content = getMethod.getResponseBodyAsStream();
 					pageString = InputStreamTOString(content, "UTF-8");
+					System.out.println(id+"--------------------------"+nnn+":"+ernumber);
 					InsertUserCache(pageString);
-					System.out.println("解析 followers..."+nnn);
+					//System.out.println("解析 followers..."+nnn);
 //					System.out.println(pageString);
 //					fileWriter(pageString);
 				}
 			} catch (HttpException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-				return;
+				continue;
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-				return ;
+				continue;
 			} catch (Exception e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-				return ;
+				continue;
 			}
 			nnn+=20;
 		}	
@@ -404,9 +408,9 @@ public class MainThread {
 		while (m.find()) {
 			boolean n = false;
 			n = DaoTools.InsertUserCatch(m.group());
-			if (n == true) {
-				System.out.println(m.group() + "   ...success");
-			}
+//			if (n == true) {
+//				System.out.println(m.group() + "\t\t...success"+"......."+Gui.numbered);
+//			}
 		}
 	}
 }
