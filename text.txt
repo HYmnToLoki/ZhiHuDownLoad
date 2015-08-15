@@ -14,7 +14,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 <meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/zhang-kiki-30/followers">
-<meta id="znonce" name="znonce" content="24f37344e2bb42ca959d9dd685ba195e">
+<meta id="znonce" name="znonce" content="0d61f83c8c5c46a8899c27e7240dbd7a">
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(57px).png" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(72px).png" sizes="72x72" />
 <link rel="apple-touch-icon-precomposed" href="http://static.zhihu.com/static/img/ios/zhihu(76px).png" sizes="76x76" />
@@ -710,7 +710,7 @@ href="/people/wo-shi-bi-qie-duo-er">
 /
 <a target="_blank" href="/people/wo-shi-bi-qie-duo-er/answers" class="zg-link-gray-normal">162 »Ø´ð</a>
 /
-<a target="_blank" href="/people/wo-shi-bi-qie-duo-er" class="zg-link-gray-normal">2222 ÔÞÍ¬</a>
+<a target="_blank" href="/people/wo-shi-bi-qie-duo-er" class="zg-link-gray-normal">2223 ÔÞÍ¬</a>
 </div>
 
 </div>
@@ -1404,7 +1404,7 @@ href="/people/zhen-fei-fei-96">
 <script type="text/json" class="json-inline" data-name="permissions">[]</script>
 
 
-<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1388057876000,"now":1439559108000,"abtest_mask":"---------1--------------------","user_attr":[1,0,0,"-",1],"user_hash":"d00ade9168907740fcea35fa5fbc7ace"}</script>
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":1388057876000,"now":1439560085000,"abtest_mask":"---------1--------------------","user_attr":[1,0,0,"-",1],"user_hash":"d00ade9168907740fcea35fa5fbc7ace"}</script>
 
 <script src="http://static.zhihu.com/static/ver/e81122a3ca2b78ad911aff474211d7c3.extern_src.min.js"></script>
 <script src="http://static.zhihu.com/static/ver/b0c7a5cbdc3276b724bfac6e36415230.app_core.js"></script>
@@ -1412,7 +1412,7 @@ href="/people/zhen-fei-fei-96">
 <script src="http://static.zhihu.com/static/ver/6ffbff2a309997c4caff2ee2f6003bc0.app.js"></script>
 <script src="http://static.zhihu.com/static/ver/2ae5b3b2576a4aa2a5845aef5b651a6f.rich_text_editor.js"></script>
 
-<script type="text/zscript" znonce="24f37344e2bb42ca959d9dd685ba195e">
+<script type="text/zscript" znonce="0d61f83c8c5c46a8899c27e7240dbd7a">
 ZH.entryP();
 </script>
 
