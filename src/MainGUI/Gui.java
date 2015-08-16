@@ -1,5 +1,6 @@
 package MainGUI;
 
+import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.LinkedList;
@@ -12,19 +13,24 @@ import javax.swing.JFrame;
 
 
 
+
 import Been.User;
 import Dao.DaoTools;
 import Net.MainThread;
 
 public class Gui extends JFrame implements ActionListener {
-	
+	boolean check=false;
 	JButton Btn_start = new JButton("start");
+	JButton Btn_end=new JButton("停止");
 	public static int numbered=0;
 	public Gui() {
-		this.setSize(100, 100);
+		this.setSize(100, 200);
 		this.setLocation(100, 100);
+		this.setLayout(new FlowLayout());
 		this.add(Btn_start);
+		this.add(Btn_end);
 		Btn_start.addActionListener(this);
+		Btn_end.addActionListener(this);
 
 	}
 
@@ -34,11 +40,19 @@ public class Gui extends JFrame implements ActionListener {
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		if (e.getSource() == Btn_start) {
+			check=false;
 			Hello h1=new Hello();
 			new Thread(h1,"get").start();
 			new Thread(h1,"take1").start();
 			new Thread(h1,"take2").start();
 			new Thread(h1,"take3").start();	
+			new Thread(h1,"take4").start();	
+			new Thread(h1,"take5").start();
+			new Thread(h1,"take6").start();	
+		}
+		if(e.getSource()==Btn_end)
+		{
+			check=true;
 		}
 	}
 
@@ -72,6 +86,15 @@ public class Gui extends JFrame implements ActionListener {
 				System.out.println(Thread.currentThread().getName()+"线程=====================执行"+"-----------"+hs.size());
 				tools(Thread.currentThread().getName());
 					}
+					if(check)
+					{
+						for(int i=0;i<hs.size();i++)
+						{
+							DaoTools.InsertUserCatch(hs.poll());
+						}
+						System.out.println(Thread.currentThread().getName()+"线程正在退出");
+						return ;
+					}
 				}
 			}else
 			{
@@ -83,8 +106,14 @@ public class Gui extends JFrame implements ActionListener {
 					{
 					startToDown(seed);
 					}
+					if(check)
+					{
+						System.out.println(Thread.currentThread().getName()+"线程正在退出");
+						return ;
+					}
 				}
 			}
+			
 			
 		}
 		public synchronized String tools(String name)
@@ -146,7 +175,8 @@ public class Gui extends JFrame implements ActionListener {
 					//将的到的网址写入text文件，以便测试正则表达式
 					//MainThread.fileWriter(pageString);
 					//System.out.println(pageString);
-					DaoTools.deleteUserCache(seed);
+					//DaoTools.deleteUserCache(seed);
+
 				} catch (Exception e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
