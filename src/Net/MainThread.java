@@ -165,7 +165,7 @@ public class MainThread {
 		}
 		// name = ""; // 用户的姓名
 		Pattern p3 = Pattern
-				.compile("(?<=<a class=\"name\".{0,100}>).*(?=</a>)");
+				.compile("(?<=<a class=\"name\".{0,30}>).*(?=</a>)");
 		Matcher m3 = p3.matcher(pageString);
 		while (m3.find()) {
 			user.setName(m3.group());
@@ -203,7 +203,7 @@ public class MainThread {
 				.compile("(?<=<span class=\"item gender\" ><i class=\").*(?=\"></i>)");
 		Matcher m8 = p8.matcher(pageString);
 		while (m8.find()) {
-			if(m8.group()=="icon icon-profile-male")
+			if(m8.group().equals("icon icon-profile-male"))
 			{
 				user.setGender("m");
 			}else {
